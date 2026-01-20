@@ -1,0 +1,292 @@
+[
+  {
+    "id": "thai",
+    "name": "Thái",
+    "population": 1820000,
+    "provinces": ["Sơn La", "Điện Biên", "Lai Châu", "Yên Bái", "Hòa Bình", "Thanh Hóa", "Nghệ An"],
+    "coordinates": [21.3256, 103.9188],
+    "history": "Có nguồn gốc từ khu vực Vân Nam (Trung Quốc) di cư xuống Đông Nam Á từ sớm, có lịch sử lâu đời và bản sắc văn hóa độc đáo gắn liền với núi rừng.",
+    "culture": {
+      "costume": "Nữ: Áo cóm bó sát, váy đen, thắt lưng xanh. Nam: Áo chàm, quần rộng.",
+      "cuisine": "Gạo nếp, các món nướng (lạp), nộm, sử dụng mắc khén, gừng, ớt, tỏi làm gia vị, xôi ngũ sắc, măng đắng.",
+      "language": "Thuộc ngữ hệ Tày–Thái, có chữ Thái cổ.",
+      "festivals": "Xên bản – xên mường, Lễ hội hoa ban."
+    },
+    "society": {
+      "family": "Phụ hệ, gia đình nhỏ, coi trọng dòng họ.",
+      "customs": "Luật mường – quy định về đất đai, hôn nhân, cộng đồng."
+    },
+    "spirituality": {
+      "religion": "Đa thần, tín ngưỡng dân gian.",
+      "worship": "Thờ tổ tiên, thần mường, thần sông núi.",
+      "taboos": "Kiêng bước qua bếp lửa, kiêng làm ồn trong lễ cúng."
+    },
+    "hoChiMinhQuote": {
+      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
+      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
+      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
+    },
+    "image": "/images/ethnic/thai.jpg"
+  },
+  {
+    "id": "tay",
+    "name": "Tày",
+    "population": 1845000,
+    "provinces": ["Cao Bằng", "Lạng Sơn", "Bắc Kạn", "Thái Nguyên", "Quảng Ninh", "Hà Giang", "Tuyên Quang"],
+    "coordinates": [22.6667, 106.2500],
+    "history": "Dân tộc có dân số đông thứ hai ở Việt Nam, cư trú lâu đời tại vùng núi phía Bắc, có nền văn hóa phong phú và lịch sử gắn liền với các phong trào yêu nước.",
+    "culture": {
+      "costume": "Trang phục màu chàm, áo năm thân, khăn vuông đội đầu.",
+      "cuisine": "Cơm lam, thịt lợn quay, bánh khảo, rượu ngô.",
+      "language": "Thuộc ngữ hệ Tày-Thái, có chữ Nôm Tày.",
+      "festivals": "Lễ hội Lồng Tồng (xuống đồng), hội xuân."
+    },
+    "society": {
+      "family": "Gia đình phụ hệ, con trai kế thừa.",
+      "customs": "Coi trọng lễ nghĩa, kính già yêu trẻ."
+    },
+    "spirituality": {
+      "religion": "Thờ đa thần, ảnh hưởng Phật giáo, Đạo giáo.",
+      "worship": "Thờ tổ tiên, thờ thần nông nghiệp.",
+      "taboos": "Kiêng kỵ các ngày xấu trong lịch."
+    },
+    "hoChiMinhQuote": {
+      "quote": "Nước Việt Nam là một, dân tộc Việt Nam là một. Sông có thể cạn, núi có thể mòn, song chân lý ấy không bao giờ thay đổi.",
+      "source": "Lời kêu gọi toàn quốc kháng chiến, 1946",
+      "page": "Giáo trình TTHCM, Chương 3, tr. 98"
+    },
+    "image": "/images/ethnic/tay.jpg"
+  },
+  {
+    "id": "muong",
+    "name": "Mường",
+    "population": 1452000,
+    "provinces": ["Hòa Bình", "Thanh Hóa", "Phú Thọ", "Sơn La", "Ninh Bình"],
+    "coordinates": [20.8171, 105.3378],
+    "history": "Là dân tộc có quan hệ gần gũi với người Kinh, cùng nguồn gốc Việt cổ. Sử thi 'Đẻ đất đẻ nước' là di sản văn hóa quý giá.",
+    "culture": {
+      "costume": "Phụ nữ mặc váy đen, áo cánh trắng, thắt lưng xanh, đội khăn.",
+      "cuisine": "Cơm đồ, rượu cần, thịt trâu gác bếp.",
+      "language": "Thuộc ngữ hệ Việt-Mường.",
+      "festivals": "Lễ hội Khai hạ, Lễ xuống đồng."
+    },
+    "society": {
+      "family": "Phụ hệ, chồng làm chủ gia đình.",
+      "customs": "Hệ thống Lang đạo truyền thống."
+    },
+    "spirituality": {
+      "religion": "Đa thần giáo, thờ tự nhiên.",
+      "worship": "Thờ tổ tiên, thờ thần Đất, thần Nước.",
+      "taboos": "Kiêng động dao kéo trong nhà vào ngày tết."
+    },
+    "hoChiMinhQuote": {
+      "quote": "Chúng ta phải thương yêu nhau, phải kính trọng nhau, phải giúp đỡ nhau để mưu cầu hạnh phúc chung.",
+      "source": "Bài nói chuyện với đồng bào các dân tộc, 1959",
+      "page": "Giáo trình TTHCM, Chương 4, tr. 130"
+    },
+    "image": "/images/ethnic/muong.jpg"
+  },
+  {
+    "id": "hmong",
+    "name": "H'Mông",
+    "population": 1393000,
+    "provinces": ["Hà Giang", "Lào Cai", "Sơn La", "Điện Biên", "Lai Châu", "Yên Bái", "Cao Bằng"],
+    "coordinates": [22.8200, 104.9800],
+    "history": "Di cư từ phương Bắc vào Việt Nam cách đây khoảng 300-400 năm, cư trú chủ yếu ở vùng núi cao.",
+    "culture": {
+      "costume": "Váy xòe rực rỡ với hoa văn sáp ong, vòng bạc, khăn đội đầu.",
+      "cuisine": "Mèn mén (bột ngô hấp), thắng cố, rượu ngô.",
+      "language": "Thuộc ngữ hệ H'Mông-Miền.",
+      "festivals": "Tết H'Mông, Gầu Tào (hội xuân)."
+    },
+    "society": {
+      "family": "Phụ hệ mạnh, theo họ cha.",
+      "customs": "Tục kéo vợ, tục ma chay độc đáo."
+    },
+    "spirituality": {
+      "religion": "Thờ vạn vật hữu linh.",
+      "worship": "Thờ tổ tiên, cúng ma nhà.",
+      "taboos": "Nhiều kiêng kỵ trong sinh đẻ và tang ma."
+    },
+    "hoChiMinhQuote": {
+      "quote": "Các dân tộc miền núi và miền xuôi đoàn kết lại, chúng ta sẽ thắng.",
+      "source": "Thư gửi đồng bào Tây Bắc, 1947",
+      "page": "Giáo trình TTHCM, Chương 4, tr. 127"
+    },
+    "image": "/images/ethnic/hmong.jpg"
+  },
+  {
+    "id": "khmer",
+    "name": "Khmer",
+    "population": 1319000,
+    "provinces": ["Sóc Trăng", "Trà Vinh", "Kiên Giang", "An Giang", "Bạc Liêu", "Cà Mau"],
+    "coordinates": [9.6025, 105.9739],
+    "history": "Là một trong những dân tộc bản địa lâu đời ở Nam Bộ, mang đậm nét văn hóa Phật giáo Nam tông.",
+    "culture": {
+      "costume": "Sampot truyền thống, sarong cho nam, xà rông cho nữ.",
+      "cuisine": "Bún nước lèo, bánh tét, mắm bồ hóc.",
+      "language": "Tiếng Khmer thuộc ngữ hệ Môn-Khmer.",
+      "festivals": "Lễ Chôl Chnăm Thmây (Tết), Oóc Om Bóc (cúng trăng), đua ghe ngo."
+    },
+    "society": {
+      "family": "Mẫu hệ, con gái thừa kế.",
+      "customs": "Chùa là trung tâm văn hóa, giáo dục."
+    },
+    "spirituality": {
+      "religion": "Phật giáo Nam tông (Theravada).",
+      "worship": "Thờ Phật, thờ tổ tiên.",
+      "taboos": "Kiêng sát sinh, tuân thủ giới luật Phật giáo."
+    },
+    "hoChiMinhQuote": {
+      "quote": "Đồng bào Kinh, Khơ-me cùng chung sống trên mảnh đất Việt Nam, cùng đổ mồ hôi xây dựng Tổ quốc.",
+      "source": "Bài nói chuyện với đồng bào Nam Bộ, 1958",
+      "page": "Giáo trình TTHCM, Chương 4, tr. 132"
+    },
+    "image": "/images/ethnic/khmer.jpg"
+  },
+  {
+    "id": "nung",
+    "name": "Nùng",
+    "population": 1083000,
+    "provinces": ["Lạng Sơn", "Cao Bằng", "Bắc Kạn", "Thái Nguyên", "Bắc Giang"],
+    "coordinates": [21.8537, 106.7615],
+    "history": "Có nguồn gốc từ nam Trung Quốc, di cư vào Việt Nam từ nhiều thế kỷ trước, văn hóa gần gũi với người Tày.",
+    "culture": {
+      "costume": "Trang phục chàm, khăn đội đầu, thêu hoa văn đơn giản.",
+      "cuisine": "Khau nhục, bánh cao sằng, rượu men lá.",
+      "language": "Thuộc ngữ hệ Tày-Thái.",
+      "festivals": "Lễ hội Nàng Hai, Lễ cầu mùa."
+    },
+    "society": {
+      "family": "Phụ hệ, gia đình nhỏ.",
+      "customs": "Tục nhuộm răng đen, xăm mình."
+    },
+    "spirituality": {
+      "religion": "Đa thần, ảnh hưởng Nho, Phật, Đạo.",
+      "worship": "Thờ Thổ công, thờ tổ tiên.",
+      "taboos": "Kiêng kỵ trong xây nhà, cưới hỏi."
+    },
+    "hoChiMinhQuote": {
+      "quote": "Dân tộc ta có tinh thần đoàn kết, ai cũng yêu nước, ai cũng muốn giữ nước.",
+      "source": "Bài nói chuyện với đồng bào vùng núi phía Bắc, 1961",
+      "page": "Giáo trình TTHCM, Chương 4, tr. 135"
+    },
+    "image": "/images/ethnic/nung.jpg"
+  },
+  {
+    "id": "ede",
+    "name": "Ê-đê",
+    "population": 398000,
+    "provinces": ["Đắk Lắk", "Gia Lai", "Phú Yên", "Khánh Hòa"],
+    "coordinates": [12.6675, 108.0377],
+    "history": "Là một trong những dân tộc bản địa lớn nhất Tây Nguyên, có nền văn hóa đặc sắc với sử thi và nhà dài.",
+    "culture": {
+      "costume": "Váy quấn, áo chui đầu, phụ kiện đồng, cườm.",
+      "cuisine": "Cơm lam, gà nướng, rượu cần.",
+      "language": "Thuộc ngữ hệ Malayo-Polynesia.",
+      "festivals": "Lễ bỏ mả, Lễ cúng bến nước."
+    },
+    "society": {
+      "family": "Mẫu hệ, con gái chủ động cưới chồng.",
+      "customs": "Nhà dài truyền thống, cồng chiêng."
+    },
+    "spirituality": {
+      "religion": "Tín ngưỡng vạn vật hữu linh.",
+      "worship": "Thờ Yàng (thần linh), cúng bến nước.",
+      "taboos": "Nhiều kiêng kỵ về mồ mả, nguồn nước."
+    },
+    "hoChiMinhQuote": {
+      "quote": "Đồng bào Kinh hay thổ, Mường hay Mán, Gia Rai hay Ê đê, Xê đăng hay Ba na và các dân tộc thiểu số khác, đều là con cháu Việt Nam.",
+      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
+      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
+    },
+    "image": "/images/ethnic/ede.jpg"
+  },
+  {
+    "id": "giarai",
+    "name": "Gia Rai",
+    "population": 513000,
+    "provinces": ["Gia Lai", "Kon Tum", "Đắk Lắk"],
+    "coordinates": [13.9833, 108.0000],
+    "history": "Dân tộc lớn nhất Tây Nguyên, có truyền thống văn hóa cồng chiêng và sử thi phong phú.",
+    "culture": {
+      "costume": "Váy quấn, áo cánh, trang sức đồng và cườm.",
+      "cuisine": "Cơm lam, thịt nướng, rượu cần.",
+      "language": "Thuộc ngữ hệ Malayo-Polynesia.",
+      "festivals": "Lễ bỏ mả, Lễ đâm trâu, Lễ mừng lúa mới."
+    },
+    "society": {
+      "family": "Mẫu hệ, theo dòng mẹ.",
+      "customs": "Luật tục rất quan trọng trong đời sống."
+    },
+    "spirituality": {
+      "religion": "Thờ Yàng và các thần linh tự nhiên.",
+      "worship": "Cúng thần rừng, thần sông, thần lúa.",
+      "taboos": "Kiêng phạm vào rừng thiêng, nguồn nước thiêng."
+    },
+    "hoChiMinhQuote": {
+      "quote": "Tất cả các dân tộc đều bình đẳng. Dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do.",
+      "source": "Tuyên ngôn Độc lập, 1945",
+      "page": "Giáo trình TTHCM, Chương 2, tr. 45"
+    },
+    "image": "/images/ethnic/giarai.jpg"
+  },
+  {
+    "id": "bana",
+    "name": "Ba Na",
+    "population": 286000,
+    "provinces": ["Gia Lai", "Kon Tum", "Bình Định", "Phú Yên"],
+    "coordinates": [14.3500, 108.0000],
+    "history": "Dân tộc bản địa Tây Nguyên với kiến trúc nhà rông độc đáo và văn hóa cồng chiêng nổi bật.",
+    "culture": {
+      "costume": "Đàn ông đóng khố, phụ nữ váy quấn, trang sức đồng.",
+      "cuisine": "Cơm lam, cà đắng, rượu cần.",
+      "language": "Thuộc ngữ hệ Môn-Khmer.",
+      "festivals": "Lễ đâm trâu, Lễ mừng nhà rông mới."
+    },
+    "society": {
+      "family": "Phụ hệ hoặc song hệ tùy vùng.",
+      "customs": "Nhà rông là trung tâm cộng đồng."
+    },
+    "spirituality": {
+      "religion": "Thờ vạn vật hữu linh, thờ Yàng.",
+      "worship": "Cúng thần lúa, thần rừng, thần sông.",
+      "taboos": "Kiêng phá rừng đầu nguồn."
+    },
+    "hoChiMinhQuote": {
+      "quote": "Chủ nghĩa dân tộc là một động lực lớn của đất nước.",
+      "source": "Báo cáo về Bắc Kỳ, Trung Kỳ và Nam Kỳ, 1924",
+      "page": "Giáo trình TTHCM, Chương 1, tr. 30"
+    },
+    "image": "/images/ethnic/bana.jpg"
+  },
+  {
+    "id": "dao",
+    "name": "Dao",
+    "population": 891000,
+    "provinces": ["Lào Cai", "Hà Giang", "Yên Bái", "Tuyên Quang", "Cao Bằng", "Quảng Ninh"],
+    "coordinates": [22.4000, 104.5000],
+    "history": "Di cư từ Trung Quốc vào Việt Nam từ thế kỷ 13-14, phân bố rộng khắp vùng núi phía Bắc.",
+    "culture": {
+      "costume": "Đa dạng theo nhóm: Dao đỏ, Dao tiền, Dao quần chẹt... mỗi nhóm có trang phục riêng.",
+      "cuisine": "Thịt gác bếp, rượu hoẵng, bánh dầy.",
+      "language": "Thuộc ngữ hệ H'Mông-Miền.",
+      "festivals": "Lễ cấp sắc, Tết nhảy."
+    },
+    "society": {
+      "family": "Phụ hệ, theo họ cha.",
+      "customs": "Lễ cấp sắc đánh dấu trưởng thành nam giới."
+    },
+    "spirituality": {
+      "religion": "Đạo giáo pha trộn tín ngưỡng bản địa.",
+      "worship": "Thờ Bàn Vương (thủy tổ), thờ tổ tiên.",
+      "taboos": "Nhiều kiêng kỵ trong lễ cấp sắc và tang ma."
+    },
+    "hoChiMinhQuote": {
+      "quote": "Giang sơn và Chính phủ là giang sơn và Chính phủ chung của chúng ta. Vậy nên tất cả dân tộc chúng ta phải đoàn kết chặt chẽ.",
+      "source": "Thư gửi Đại hội các dân tộc thiểu số, 1945",
+      "page": "Giáo trình TTHCM, Chương 4, tr. 124"
+    },
+    "image": "/images/ethnic/dao.jpg"
+  }
+]

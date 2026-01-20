@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "year": 1941,
+    "title": "Thành lập Mặt trận Việt Minh",
+    "description": "Ngày 19/5/1941, Mặt trận Việt Minh được thành lập tại Pác Bó (Cao Bằng), tập hợp các lực lượng yêu nước từ mọi dân tộc.",
+    "quote": "Việt Minh là tổ chức cứu nước của toàn dân Việt Nam.",
+    "relatedRegions": ["cao-bang", "bac-kan", "lang-son"],
+    "image": "/images/timeline/vietminh.jpg"
+  },
+  {
+    "id": 2,
+    "year": 1945,
+    "title": "Cách mạng Tháng Tám",
+    "description": "Nhân dân các dân tộc từ Bắc tới Nam nhất tề đứng lên giành chính quyền. Đoàn kết dân tộc là sức mạnh quyết định thắng lợi.",
+    "quote": "Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập.",
+    "relatedRegions": ["ha-noi", "hue", "sai-gon"],
+    "image": "/images/timeline/cmtt.jpg"
+  },
+  {
+    "id": 3,
+    "year": 1946,
+    "title": "Đại hội các dân tộc thiểu số miền Nam",
+    "description": "Tháng 4/1946, Đại hội các dân tộc thiểu số miền Nam họp tại Pleiku. Bác Hồ gửi thư với thông điệp đoàn kết.",
+    "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê... đều là con cháu Việt Nam, đều là anh em ruột thịt.",
+    "relatedRegions": ["gia-lai", "kon-tum", "dak-lak"],
+    "image": "/images/timeline/pleiku1946.jpg"
+  },
+  {
+    "id": 4,
+    "year": 1947,
+    "title": "Chiến khu Việt Bắc",
+    "description": "Việt Bắc trở thành căn cứ địa cách mạng. Đồng bào Tày, Nùng, Dao, H'Mông... cùng bộ đội kháng chiến.",
+    "quote": "Các dân tộc miền núi và miền xuôi đoàn kết lại, chúng ta sẽ thắng.",
+    "relatedRegions": ["tuyen-quang", "thai-nguyen", "bac-kan", "cao-bang"],
+    "image": "/images/timeline/vietbac.jpg"
+  },
+  {
+    "id": 5,
+    "year": 1954,
+    "title": "Chiến thắng Điện Biên Phủ",
+    "description": "Chiến thắng 'lừng lẫy năm châu, chấn động địa cầu' với sự đóng góp to lớn của đồng bào các dân tộc Tây Bắc.",
+    "quote": "Chiến thắng Điện Biên Phủ là chiến thắng của sức mạnh đoàn kết toàn dân tộc.",
+    "relatedRegions": ["dien-bien", "son-la", "lai-chau"],
+    "image": "/images/timeline/dien-bien.jpg"
+  },
+  {
+    "id": 6,
+    "year": 1959,
+    "title": "Đại hội đại biểu các dân tộc thiểu số toàn quốc lần thứ I",
+    "description": "Đại hội họp tại Hà Nội, khẳng định sự bình đẳng và đoàn kết giữa các dân tộc trong xây dựng đất nước.",
+    "quote": "Tất cả các dân tộc đều bình đẳng, đều là chủ nhân của nước Việt Nam.",
+    "relatedRegions": ["ha-noi"],
+    "image": "/images/timeline/daihoi1959.jpg"
+  },
+  {
+    "id": 7,
+    "year": 1965,
+    "title": "Đường mòn Hồ Chí Minh",
+    "description": "Đồng bào các dân tộc Tây Nguyên và dọc Trường Sơn cùng mở đường, bảo vệ tuyến chi viện chiến lược.",
+    "quote": "Không có việc gì khó, chỉ sợ lòng không bền.",
+    "relatedRegions": ["quang-binh", "quang-tri", "kon-tum", "gia-lai"],
+    "image": "/images/timeline/truongson.jpg"
+  },
+  {
+    "id": 8,
+    "year": 1975,
+    "title": "Thống nhất đất nước",
+    "description": "Sau 30 năm kháng chiến, đất nước thống nhất. Sức mạnh đoàn kết dân tộc đã chiến thắng.",
+    "quote": "Nước Việt Nam là một, dân tộc Việt Nam là một.",
+    "relatedRegions": ["sai-gon", "ha-noi"],
+    "image": "/images/timeline/1975.jpg"
+  }
+]

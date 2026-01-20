@@ -1,0 +1,62 @@
+[
+  {
+    "id": "education",
+    "title": "Giáo dục",
+    "description": "Tư tưởng Hồ Chí Minh về phát triển giáo dục cho đồng bào dân tộc thiểu số",
+    "quote": "Một dân tộc dốt là một dân tộc yếu. Vì vậy, tôi đề nghị mở một chiến dịch giáo dục.",
+    "source": "Giáo trình TTHCM, Chương 5, tr. 156",
+    "regions": [
+      {"id": "cao-bang", "name": "Cao Bằng", "note": "Nơi Bác mở lớp huấn luyện cán bộ"},
+      {"id": "viet-bac", "name": "Việt Bắc", "note": "Xây dựng trường học vùng căn cứ"},
+      {"id": "tay-nguyen", "name": "Tây Nguyên", "note": "Phát triển chữ viết các dân tộc"}
+    ]
+  },
+  {
+    "id": "equality",
+    "title": "Bình đẳng dân tộc",
+    "description": "Quan điểm nhất quán của Bác về sự bình đẳng giữa tất cả các dân tộc",
+    "quote": "Tất cả các dân tộc đều bình đẳng. Dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do.",
+    "source": "Tuyên ngôn Độc lập, 1945",
+    "regions": [
+      {"id": "tay-bac", "name": "Tây Bắc", "note": "Thăm và nói chuyện với đồng bào Thái, Mường"},
+      {"id": "dong-bac", "name": "Đông Bắc", "note": "Gặp gỡ đồng bào Tày, Nùng, Dao"},
+      {"id": "nam-bo", "name": "Nam Bộ", "note": "Quan tâm đồng bào Khmer, Chăm"}
+    ]
+  },
+  {
+    "id": "resistance",
+    "title": "Đoàn kết kháng chiến",
+    "description": "Sức mạnh đoàn kết các dân tộc trong cuộc kháng chiến giải phóng dân tộc",
+    "quote": "Các dân tộc miền núi và miền xuôi đoàn kết lại, chúng ta sẽ thắng.",
+    "source": "Thư gửi đồng bào Tây Bắc, 1947",
+    "regions": [
+      {"id": "viet-bac", "name": "Việt Bắc", "note": "Căn cứ địa kháng chiến"},
+      {"id": "tay-nguyen", "name": "Tây Nguyên", "note": "Chiến trường ác liệt"},
+      {"id": "truong-son", "name": "Trường Sơn", "note": "Đường mòn Hồ Chí Minh"}
+    ]
+  },
+  {
+    "id": "development",
+    "title": "Phát triển kinh tế",
+    "description": "Chính sách phát triển vùng dân tộc thiểu số, xóa đói giảm nghèo",
+    "quote": "Phải làm cho đồng bào các dân tộc thiểu số được hưởng ngày càng đầy đủ những quyền lợi về kinh tế, văn hóa, xã hội.",
+    "source": "Bài nói tại Đại hội đại biểu các dân tộc thiểu số, 1959",
+    "regions": [
+      {"id": "tay-bac", "name": "Tây Bắc", "note": "Phát triển nông lâm nghiệp"},
+      {"id": "tay-nguyen", "name": "Tây Nguyên", "note": "Khai hoang, định canh định cư"},
+      {"id": "mien-nui-phia-bac", "name": "Miền núi phía Bắc", "note": "Xây dựng cơ sở hạ tầng"}
+    ]
+  },
+  {
+    "id": "culture",
+    "title": "Bảo tồn văn hóa",
+    "description": "Quan điểm về tôn trọng và bảo tồn bản sắc văn hóa các dân tộc",
+    "quote": "Phải tôn trọng và giữ gìn phong tục tập quán tốt đẹp của đồng bào các dân tộc.",
+    "source": "Giáo trình TTHCM, Chương 4, tr. 140",
+    "regions": [
+      {"id": "tay-bac", "name": "Tây Bắc", "note": "Bảo tồn văn hóa Thái, Mường, H'Mông"},
+      {"id": "dong-bac", "name": "Đông Bắc", "note": "Gìn giữ văn hóa Tày, Nùng, Dao"},
+      {"id": "tay-nguyen", "name": "Tây Nguyên", "note": "Phát huy Không gian văn hóa Cồng chiêng"}
+    ]
+  }
+]
