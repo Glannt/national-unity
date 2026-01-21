@@ -11,7 +11,7 @@ export default function DefaultLayout({
   return (
     <div className="relative flex flex-col min-h-screen bg-gradient-to-br from-background to-content2">
       <Navbar />
-      <main className="container mx-auto max-w-7xl px-6 flex-grow pt-8">
+      <main className="container mx-auto max-w-[95vw] xl:max-w-[90vw] 2xl:max-w-[85vw] px-3 md:px-6 flex-grow pt-8">
         {children}
       </main>
       <footer className="w-full flex flex-col items-center justify-center py-6 gap-2 border-t border-divider mt-8">
@@ -34,7 +34,7 @@ export default function DefaultLayout({
           <span className="text-primary">HeroUI</span>
         </Link>
       </footer>
-      
+
       {/* Global ChatBot - appears on all pages */}
       <ChatBot />
     </div>

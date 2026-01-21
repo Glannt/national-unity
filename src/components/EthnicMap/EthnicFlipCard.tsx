@@ -1,5 +1,5 @@
-import { useState } from "react";
-import { motion } from "framer-motion";
+import { useState, useEffect } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 
 import { EthnicGroup } from "@/types";
 
@@ -14,13 +14,18 @@ export default function EthnicFlipCard({
 }: EthnicFlipCardProps) {
   const [isFlipped, setIsFlipped] = useState(false);
 
+  // Auto flip to back when tab changes to show content
+  useEffect(() => {
+    setIsFlipped(true);
+  }, [activeTab]);
+
   const getTabContent = () => {
     switch (activeTab) {
       case "culture":
         return (
-          <div className="space-y-4">
+          <div className="space-y-3">
             <div className="flex items-start gap-3">
-              <span className="text-2xl">👘</span>
+              <span className="text-xl">👘</span>
               <div>
                 <h4 className="font-semibold text-primary text-sm">
                   Trang phục
@@ -31,7 +36,7 @@ export default function EthnicFlipCard({
               </div>
             </div>
             <div className="flex items-start gap-3">
-              <span className="text-2xl">🍜</span>
+              <span className="text-xl">🍜</span>
               <div>
                 <h4 className="font-semibold text-primary text-sm">Ẩm thực</h4>
                 <p className="text-sm text-default-600">
@@ -40,7 +45,7 @@ export default function EthnicFlipCard({
               </div>
             </div>
             <div className="flex items-start gap-3">
-              <span className="text-2xl">🗣️</span>
+              <span className="text-xl">🗣️</span>
               <div>
                 <h4 className="font-semibold text-primary text-sm">Ngôn ngữ</h4>
                 <p className="text-sm text-default-600">
@@ -49,7 +54,7 @@ export default function EthnicFlipCard({
               </div>
             </div>
             <div className="flex items-start gap-3">
-              <span className="text-2xl">🎉</span>
+              <span className="text-xl">🎉</span>
               <div>
                 <h4 className="font-semibold text-primary text-sm">Lễ hội</h4>
                 <p className="text-sm text-default-600">
@@ -61,9 +66,9 @@ export default function EthnicFlipCard({
         );
       case "society":
         return (
-          <div className="space-y-4">
+          <div className="space-y-3">
             <div className="flex items-start gap-3">
-              <span className="text-2xl">👨‍👩‍👧‍👦</span>
+              <span className="text-xl">👨‍👩‍👧‍👦</span>
               <div>
                 <h4 className="font-semibold text-primary text-sm">Gia đình</h4>
                 <p className="text-sm text-default-600">
@@ -72,7 +77,7 @@ export default function EthnicFlipCard({
               </div>
             </div>
             <div className="flex items-start gap-3">
-              <span className="text-2xl">📜</span>
+              <span className="text-xl">📜</span>
               <div>
                 <h4 className="font-semibold text-primary text-sm">
                   Phong tục - Luật tục
@@ -86,9 +91,9 @@ export default function EthnicFlipCard({
         );
       case "spirituality":
         return (
-          <div className="space-y-4">
+          <div className="space-y-3">
             <div className="flex items-start gap-3">
-              <span className="text-2xl">🛕</span>
+              <span className="text-xl">🛕</span>
               <div>
                 <h4 className="font-semibold text-primary text-sm">
                   Tôn giáo - Tín ngưỡng
@@ -99,7 +104,7 @@ export default function EthnicFlipCard({
               </div>
             </div>
             <div className="flex items-start gap-3">
-              <span className="text-2xl">🙏</span>
+              <span className="text-xl">🙏</span>
               <div>
                 <h4 className="font-semibold text-primary text-sm">Thờ cúng</h4>
                 <p className="text-sm text-default-600">
@@ -108,7 +113,7 @@ export default function EthnicFlipCard({
               </div>
             </div>
             <div className="flex items-start gap-3">
-              <span className="text-2xl">⚠️</span>
+              <span className="text-xl">⚠️</span>
               <div>
                 <h4 className="font-semibold text-primary text-sm">
                   Điều kiêng kỵ
@@ -136,7 +141,7 @@ export default function EthnicFlipCard({
 
   return (
     <div
-      className="relative w-full min-h-[320px] cursor-pointer"
+      className="relative w-full h-[320px] cursor-pointer"
       style={{ perspective: "1000px" }}
       onClick={() => setIsFlipped(!isFlipped)}
     >
@@ -147,68 +152,114 @@ export default function EthnicFlipCard({
         style={{ transformStyle: "preserve-3d" }}
         transition={{ duration: 0.6, type: "spring", stiffness: 80 }}
       >
-        {/* Front Side - Image Placeholder */}
+        {/* Front Side - Image */}
         <div
-          className="absolute inset-0 w-full rounded-xl overflow-hidden shadow-lg"
+          className="absolute inset-0 w-full h-full rounded-xl overflow-hidden shadow-lg"
           style={{ backfaceVisibility: "hidden" }}
         >
-          <div className="w-full h-full bg-gradient-to-br from-primary/20 via-secondary/10 to-primary/20 flex flex-col items-center justify-center p-6">
-            {/* Ethnic Avatar */}
-            <motion.div
-              className="w-28 h-28 rounded-full bg-gradient-to-br from-primary to-secondary flex items-center justify-center mb-4 shadow-xl"
-              whileHover={{ scale: 1.05 }}
-            >
-              <span className="text-5xl">👘</span>
-            </motion.div>
-
-            <h3 className="text-2xl font-bold text-foreground mb-2">
-              Dân tộc {ethnic.name}
-            </h3>
-
-            <p className="text-default-500 text-center mb-4">
-              {ethnic.provinces.slice(0, 3).join(", ")}
-              {ethnic.provinces.length > 3 && "..."}
-            </p>
-
-            <div className="flex items-center gap-2 text-sm text-primary">
-              <svg
-                className="w-4 h-4"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth={2}
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5M7.188 2.239l.777 2.897M5.136 7.965l-2.898-.777M13.95 4.05l-2.122 2.122m-5.657 5.656l-2.12 2.122"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                />
-              </svg>
-              <span>Click để xem thông tin {getTabTitle()}</span>
+          {ethnic.image ? (
+            <div className="relative w-full h-full">
+              <img
+                alt={`Dân tộc ${ethnic.name}`}
+                className="w-full h-full object-cover"
+                src={ethnic.image}
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent" />
+              <div className="absolute bottom-0 left-0 right-0 p-4">
+                <h3 className="text-xl font-bold text-white mb-1">
+                  Dân tộc {ethnic.name}
+                </h3>
+                <p className="text-white/80 text-sm">
+                  {ethnic.provinces.slice(0, 2).join(", ")}
+                  {ethnic.provinces.length > 2 && "..."}
+                </p>
+                <p className="text-primary-300 text-xs mt-2 flex items-center gap-1">
+                  <svg
+                    className="w-3 h-3"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth={2}
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    />
+                  </svg>
+                  Click để xem {getTabTitle()}
+                </p>
+              </div>
             </div>
-          </div>
+          ) : (
+            <div className="w-full h-full bg-gradient-to-br from-primary/20 via-secondary/10 to-primary/20 flex flex-col items-center justify-center p-4">
+              <motion.div
+                className="w-20 h-20 rounded-full bg-gradient-to-br from-primary to-secondary flex items-center justify-center mb-3 shadow-xl"
+                whileHover={{ scale: 1.05 }}
+              >
+                <span className="text-4xl">👘</span>
+              </motion.div>
+
+              <h3 className="text-xl font-bold text-foreground mb-1">
+                Dân tộc {ethnic.name}
+              </h3>
+
+              <p className="text-default-500 text-center text-sm mb-2">
+                {ethnic.provinces.slice(0, 2).join(", ")}
+                {ethnic.provinces.length > 2 && "..."}
+              </p>
+
+              <p className="text-primary text-xs flex items-center gap-1">
+                <svg
+                  className="w-3 h-3"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth={2}
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  />
+                </svg>
+                Click để xem {getTabTitle()}
+              </p>
+            </div>
+          )}
         </div>
 
         {/* Back Side - Content based on tab */}
         <div
-          className="absolute inset-0 w-full rounded-xl overflow-hidden p-5 bg-gradient-to-br from-content1 to-content2 shadow-lg"
+          className="absolute inset-0 w-full h-full rounded-xl overflow-hidden p-4 bg-gradient-to-br from-content1 to-content2 shadow-lg"
           style={{
             backfaceVisibility: "hidden",
             transform: "rotateY(180deg)",
           }}
         >
-          <div className="h-full overflow-y-auto">
-            <div className="flex items-center gap-2 mb-4 pb-3 border-b border-divider">
-              <h3 className="text-xl font-bold text-foreground">
+          <div className="h-full flex flex-col">
+            <div className="flex items-center gap-2 mb-3 pb-2 border-b border-divider">
+              <h3 className="text-lg font-bold text-foreground">
                 {getTabTitle()}
               </h3>
               <span className="text-sm text-default-400">- {ethnic.name}</span>
             </div>
 
-            {getTabContent()}
+            <div className="flex-1 overflow-y-auto">
+              <AnimatePresence mode="wait">
+                <motion.div
+                  key={activeTab}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, y: -10 }}
+                  initial={{ opacity: 0, y: 10 }}
+                  transition={{ duration: 0.2 }}
+                >
+                  {getTabContent()}
+                </motion.div>
+              </AnimatePresence>
+            </div>
 
-            <div className="mt-4 pt-3 border-t border-divider">
+            <div className="pt-2 border-t border-divider mt-2">
               <p className="text-xs text-default-400 text-center flex items-center justify-center gap-1">
                 <svg
                   className="w-3 h-3"
@@ -216,15 +267,14 @@ export default function EthnicFlipCard({
                   stroke="currentColor"
                   strokeWidth={2}
                   viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
                 >
                   <path
-                    d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5M7.188 2.239l.777 2.897M5.136 7.965l-2.898-.777M13.95 4.05l-2.122 2.122m-5.657 5.656l-2.12 2.122"
+                    d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5"
                     strokeLinecap="round"
                     strokeLinejoin="round"
                   />
                 </svg>
-                Click để xem mặt trước
+                Click để xem hình ảnh
               </p>
             </div>
           </div>
