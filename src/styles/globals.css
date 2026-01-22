@@ -3,3 +3,19 @@
 
 @source '../../node_modules/@heroui/theme/dist/**/*.{js,ts,jsx,tsx}';
 @custom-variant dark (&:is(.dark *));
+
+/* Background chính cho toàn bộ trang web */
+body {
+  background-image: url('/background/back_ground.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+/* Overlay để nội dung dễ đọc hơn trên background */
+#root {
+  background: rgba(0, 0, 0, 0.4);
+  min-height: 100vh;
+}

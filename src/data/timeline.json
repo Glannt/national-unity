@@ -1,74 +1,102 @@
 [
   {
     "id": 1,
-    "year": 1941,
-    "title": "Thành lập Mặt trận Việt Minh",
-    "description": "Ngày 19/5/1941, Mặt trận Việt Minh được thành lập tại Pác Bó (Cao Bằng), tập hợp các lực lượng yêu nước từ mọi dân tộc.",
-    "quote": "Việt Minh là tổ chức cứu nước của toàn dân Việt Nam.",
-    "relatedRegions": ["cao-bang", "bac-kan", "lang-son"],
-    "image": "/images/timeline/vietminh.jpg"
+    "year": "Trước 1930",
+    "title": "Mầm mống tư tưởng đoàn kết dân tộc",
+    "description": "Các phong trào Cần Vương, Đông Du, Đông Kinh Nghĩa Thục tuy thất bại nhưng đặt nền móng cho tinh thần liên kết các tầng lớp, vùng miền. Nguyễn Ái Quốc sớm nhận ra: muốn thắng phải đoàn kết toàn dân, không phân biệt giai cấp, dân tộc, tôn giáo.",
+    "quote": "Muốn thắng phải đoàn kết toàn dân, không phân biệt giai cấp, dân tộc, tôn giáo.",
+    "relatedRegions": ["nghe-an"],
+    "location": "Nghệ An (quê hương Kim Liên)",
+    "image": "/images/timeline/truoc1930.jpg"
   },
   {
     "id": 2,
-    "year": 1945,
-    "title": "Cách mạng Tháng Tám",
-    "description": "Nhân dân các dân tộc từ Bắc tới Nam nhất tề đứng lên giành chính quyền. Đoàn kết dân tộc là sức mạnh quyết định thắng lợi.",
-    "quote": "Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập.",
-    "relatedRegions": ["ha-noi", "hue", "sai-gon"],
-    "image": "/images/timeline/cmtt.jpg"
+    "year": "1930",
+    "title": "Thành lập Đảng Cộng sản Việt Nam",
+    "description": "Ngày 03/02/1930, Đảng ra đời, xác lập đường lối cách mạng giải phóng dân tộc gắn với đoàn kết toàn dân. Mặt trận dân tộc thống nhất được coi là chiến lược lâu dài.",
+    "quote": "Đảng là lực lượng lãnh đạo cách mạng Việt Nam.",
+    "relatedRegions": ["hong-kong", "nghe-an", "ha-tinh"],
+    "location": "Hồng Kông (nơi thành lập), Nghệ An, Hà Tĩnh (cao trào Xô Viết)",
+    "image": "/images/timeline/1930.jpg"
   },
   {
     "id": 3,
-    "year": 1946,
-    "title": "Đại hội các dân tộc thiểu số miền Nam",
-    "description": "Tháng 4/1946, Đại hội các dân tộc thiểu số miền Nam họp tại Pleiku. Bác Hồ gửi thư với thông điệp đoàn kết.",
-    "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê... đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-    "relatedRegions": ["gia-lai", "kon-tum", "dak-lak"],
-    "image": "/images/timeline/pleiku1946.jpg"
+    "year": "1941",
+    "title": "Thành lập Mặt trận Việt Minh",
+    "description": "Ngày 19/5/1941, Mặt trận Việt Nam Độc lập Đồng minh ra đời tại Pác Bó, quy tụ công – nông – trí thức – dân tộc thiểu số – tôn giáo – kiều bào. Bác đặc biệt nhấn mạnh đồng bào các dân tộc miền núi phía Bắc.",
+    "quote": "Đoàn kết toàn dân, không phân biệt giàu nghèo, tôn giáo, đảng phái.",
+    "relatedRegions": ["cao-bang"],
+    "location": "Cao Bằng (Pác Bó)",
+    "image": "/images/timeline/vietminh.jpg"
   },
   {
     "id": 4,
-    "year": 1947,
-    "title": "Chiến khu Việt Bắc",
-    "description": "Việt Bắc trở thành căn cứ địa cách mạng. Đồng bào Tày, Nùng, Dao, H'Mông... cùng bộ đội kháng chiến.",
-    "quote": "Các dân tộc miền núi và miền xuôi đoàn kết lại, chúng ta sẽ thắng.",
-    "relatedRegions": ["tuyen-quang", "thai-nguyen", "bac-kan", "cao-bang"],
-    "image": "/images/timeline/vietbac.jpg"
+    "year": "1945",
+    "title": "Cách mạng Tháng Tám thành công",
+    "description": "Từ 19/8 đến 2/9/1945, nhờ sức mạnh đoàn kết toàn dân tộc, chính quyền về tay nhân dân. Nước Việt Nam Dân chủ Cộng hòa ra đời.",
+    "quote": "Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy.",
+    "relatedRegions": ["ha-noi", "hue", "sai-gon"],
+    "location": "Hà Nội (Quảng trường Ba Đình), Huế, Sài Gòn",
+    "image": "/images/timeline/cmtt.jpg"
   },
   {
     "id": 5,
-    "year": 1954,
-    "title": "Chiến thắng Điện Biên Phủ",
-    "description": "Chiến thắng 'lừng lẫy năm châu, chấn động địa cầu' với sự đóng góp to lớn của đồng bào các dân tộc Tây Bắc.",
-    "quote": "Chiến thắng Điện Biên Phủ là chiến thắng của sức mạnh đoàn kết toàn dân tộc.",
-    "relatedRegions": ["dien-bien", "son-la", "lai-chau"],
-    "image": "/images/timeline/dien-bien.jpg"
+    "year": "1951",
+    "title": "Đại hội Đảng lần II",
+    "description": "Năm 1951, Đại hội chính thức khẳng định đại đoàn kết dân tộc là chiến lược cơ bản, lâu dài. Thành lập Mặt trận Liên Việt.",
+    "quote": "Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công.",
+    "relatedRegions": ["tuyen-quang"],
+    "location": "Tuyên Quang (ATK Việt Bắc)",
+    "image": "/images/timeline/daihoi1951.jpg"
   },
   {
     "id": 6,
-    "year": 1959,
-    "title": "Đại hội đại biểu các dân tộc thiểu số toàn quốc lần thứ I",
-    "description": "Đại hội họp tại Hà Nội, khẳng định sự bình đẳng và đoàn kết giữa các dân tộc trong xây dựng đất nước.",
-    "quote": "Tất cả các dân tộc đều bình đẳng, đều là chủ nhân của nước Việt Nam.",
-    "relatedRegions": ["ha-noi"],
-    "image": "/images/timeline/daihoi1959.jpg"
+    "year": "1954",
+    "title": "Chiến thắng Điện Biên Phủ",
+    "description": "Ngày 07/5/1954, thắng lợi của ý chí toàn dân tộc, từ hậu phương đến tiền tuyến. Đồng bào các dân tộc Tây Bắc đóng vai trò quan trọng.",
+    "quote": "Chiến thắng Điện Biên Phủ là chiến thắng của sức mạnh đoàn kết toàn dân tộc.",
+    "relatedRegions": ["dien-bien", "son-la", "lai-chau"],
+    "location": "Điện Biên (Điện Biên Phủ)",
+    "image": "/images/timeline/dien-bien.jpg"
   },
   {
     "id": 7,
-    "year": 1965,
-    "title": "Đường mòn Hồ Chí Minh",
-    "description": "Đồng bào các dân tộc Tây Nguyên và dọc Trường Sơn cùng mở đường, bảo vệ tuyến chi viện chiến lược.",
-    "quote": "Không có việc gì khó, chỉ sợ lòng không bền.",
-    "relatedRegions": ["quang-binh", "quang-tri", "kon-tum", "gia-lai"],
-    "image": "/images/timeline/truongson.jpg"
+    "year": "1955-1969",
+    "title": "Xây dựng khối đoàn kết Bắc – Nam",
+    "description": "Bác Hồ nhiều lần nhấn mạnh đoàn kết Bắc – Trung – Nam là một nhà. Quan tâm đặc biệt tới đồng bào miền Nam, đồng bào các dân tộc thiểu số, đồng bào có đạo.",
+    "quote": "Nam Bộ là máu của máu Việt Nam, là thịt của thịt Việt Nam.",
+    "relatedRegions": ["nam-bo", "tay-nguyen", "viet-bac", "dong-bang-bac-bo", "khu-5"],
+    "location": "Nam Bộ, Tây Nguyên, Việt Bắc, Đồng bằng Bắc Bộ, Khu 5",
+    "image": "/images/timeline/bacnam.jpg"
   },
   {
     "id": 8,
-    "year": 1975,
-    "title": "Thống nhất đất nước",
-    "description": "Sau 30 năm kháng chiến, đất nước thống nhất. Sức mạnh đoàn kết dân tộc đã chiến thắng.",
+    "year": "1969",
+    "title": "Di chúc Chủ tịch Hồ Chí Minh",
+    "description": "Đoàn kết được đặt ở vị trí trước tiên trong Di chúc. Đoàn kết không chỉ là phương tiện, mà là giá trị cốt lõi của cách mạng.",
+    "quote": "Trong Đảng thực hành dân chủ rộng rãi, thường xuyên và nghiêm chỉnh tự phê bình và phê bình, phải giữ gìn sự đoàn kết nhất trí của Đảng như giữ gìn con ngươi của mắt mình.",
+    "relatedRegions": ["ha-noi"],
+    "location": "Hà Nội",
+    "image": "/images/timeline/dichuc.jpg"
+  },
+  {
+    "id": 9,
+    "year": "1975",
+    "title": "Đất nước thống nhất",
+    "description": "Ngày 30/4/1975, khát vọng đoàn kết Bắc – Nam thành hiện thực. Dân tộc Việt Nam bước sang giai đoạn mới: đoàn kết để xây dựng và phát triển đất nước.",
     "quote": "Nước Việt Nam là một, dân tộc Việt Nam là một.",
     "relatedRegions": ["sai-gon", "ha-noi"],
+    "location": "TP. Hồ Chí Minh (Sài Gòn)",
     "image": "/images/timeline/1975.jpg"
+  },
+  {
+    "id": 10,
+    "year": "Từ 1986 đến nay",
+    "title": "Đoàn kết trong thời kỳ Đổi mới",
+    "description": "Đại đoàn kết dân tộc được mở rộng trong phát triển kinh tế, hội nhập quốc tế, tôn trọng đa dạng văn hóa 54 dân tộc anh em.",
+    "quote": "Dân ta có một lòng nồng nàn yêu nước. Đó là một truyền thống quý báu của ta.",
+    "relatedRegions": ["viet-nam"],
+    "location": "Toàn quốc",
+    "image": "/images/timeline/doimoi.jpg"
   }
 ]

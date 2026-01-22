@@ -30,11 +30,12 @@ export interface EthnicGroup {
 
 export interface TimelineEvent {
   id: number;
-  year: number;
+  year: string | number;
   title: string;
   description: string;
   quote: string;
   relatedRegions: string[];
+  location?: string;
   image: string;
 }
 
