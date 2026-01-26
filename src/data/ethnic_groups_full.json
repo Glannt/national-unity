@@ -3,13 +3,8 @@
     "id": "kinh",
     "name": "Kinh",
     "population": 82089728,
-    "provinces": [
-      "Toàn bộ lãnh thổ Việt Nam"
-    ],
-    "coordinates": [
-      16.0544,
-      108.2022
-    ],
+    "provinces": ["Toàn bộ lãnh thổ Việt Nam"],
+    "coordinates": [16.0544, 108.2022],
     "region": "Đồng bằng",
     "history": "Tộc người bản địa, sở tại, sinh sống từ rất lâu đời trên dải đất Việt Nam, không phải có nguồn gốc từ lãnh thổ bên ngoài. Họ hình thành từ các cư dân nông nghiệp cổ đại sinh sống ở đồng bằng sông Hồng và mở rộng dần theo lịch sử hàng nghìn năm qua trở thành tộc người đông đảo, có mặt trên mọi địa bàn, địa hình của Tổ quốc.",
     "culture": {
@@ -27,29 +22,14 @@
       "worship": "Bàn thờ tổ tiên trong mỗi gia đình. Các lễ giỗ, cúng ông Công ông Táo, lễ Vu Lan…",
       "taboos": "Ngày Tết kiêng quét nhà ngày đầu năm, nói lời xui xẻo. Trong lễ cưới hỏi và đám tang có nhiều cấm kỵ."
     },
-    "image": "/kinh/kinh1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/kinh/kinh1.png"
   },
   {
     "id": "tay",
     "name": "Tày",
     "population": 1845492,
-    "provinces": [
-      "Quảng Ninh",
-      "Bắc Giang",
-      "Cao Bằng",
-      "Bắc Kạn",
-      "Lào Cai",
-      "Yên Bái"
-    ],
-    "coordinates": [
-      22.6667,
-      106.25
-    ],
+    "provinces": ["Quảng Ninh", "Bắc Giang", "Cao Bằng", "Bắc Kạn", "Lào Cai", "Yên Bái"],
+    "coordinates": [22.6667, 106.2500],
     "region": "Đông Bắc",
     "history": "Cư trú lâu đời ở miền Bắc Việt Nam; có quan hệ lịch sử/văn hóa gần gũi với các nhóm nói tiếng Tày–Thái; truyền thống định cư ở thung lũng và canh tác lúa nước phát triển.",
     "culture": {
@@ -67,29 +47,14 @@
       "worship": "Bàn thờ tổ tiên tại nhà; lễ cúng thần đất/thần bản/thành hoàng; nghi lễ Then (hát nghi lễ).",
       "taboos": "Tránh bất kính bàn thờ tổ tiên; kiêng kỵ trong thời gian tang; tránh vào rừng thiêng không đúng phép."
     },
-    "image": "/tay/tay1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/tay/tay1.png"
   },
   {
     "id": "thai",
     "name": "Thái",
     "population": 1820950,
-    "provinces": [
-      "Sơn La",
-      "Nghệ An",
-      "Thanh Hóa",
-      "Điện Biên",
-      "Lai Châu",
-      "Yên Bái"
-    ],
-    "coordinates": [
-      21.3256,
-      103.9188
-    ],
+    "provinces": ["Sơn La", "Nghệ An", "Thanh Hóa", "Điện Biên", "Lai Châu", "Yên Bái"],
+    "coordinates": [21.3256, 103.9188],
     "region": "Tây Bắc",
     "history": "Có nguồn gốc từ khu vực Vân Nam (Trung Quốc) di cư xuống Đông Nam Á từ sớm, có lịch sử lâu đời và bản sắc văn hóa độc đáo gắn liền với núi rừng.",
     "culture": {
@@ -107,27 +72,14 @@
       "worship": "Thờ tổ tiên, thần mường, thần sông núi.",
       "taboos": "Kiêng bước qua bếp lửa, kiêng làm ồn trong lễ cúng."
     },
-    "image": "/thai/thai1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/thai/thai1.png"
   },
   {
     "id": "hoa",
     "name": "Hoa",
     "population": 749466,
-    "provinces": [
-      "TP. Hồ Chí Minh",
-      "Đồng Nai",
-      "Sóc Trăng",
-      "An Giang"
-    ],
-    "coordinates": [
-      10.8231,
-      106.6297
-    ],
+    "provinces": ["TP. Hồ Chí Minh", "Đồng Nai", "Sóc Trăng", "An Giang"],
+    "coordinates": [10.8231, 106.6297],
     "region": "Đồng bằng",
     "history": "Người Hoa có nguồn gốc từ miền Nam Trung Quốc di cư đến Việt Nam vào những thời điểm khác nhau từ thế kỷ XVI, và sau này vào cuối thời Minh, đầu thời Thanh, kéo dài cho đến nửa đầu thế kỷ XX.",
     "culture": {
@@ -145,29 +97,14 @@
       "worship": "Thờ cúng tổ tiên, gia tộc, dòng họ, thờ cúng các vị thần phù hộ (thần bếp, thổ địa, thần tài...) và một số vị thánh (Quan Công, bà Thiên Hậu...).",
       "taboos": "Kiêng kỵ trong tang lễ và cưới hỏi—như tránh mặc màu trắng trong cưới. Kiêng để bàn thờ trống trải hoặc đặt vật không phù hợp gần bàn thờ."
     },
-    "image": "/hoa/hoa1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/hoa/hoa1.png"
   },
   {
     "id": "khmer",
     "name": "Khơ-me",
     "population": 1319652,
-    "provinces": [
-      "Trà Vinh",
-      "Sóc Trăng",
-      "Kiên Giang",
-      "An Giang",
-      "Cần Thơ",
-      "Vĩnh Long"
-    ],
-    "coordinates": [
-      9.9356,
-      105.7851
-    ],
+    "provinces": ["Trà Vinh", "Sóc Trăng", "Kiên Giang", "An Giang", "Cần Thơ", "Vĩnh Long"],
+    "coordinates": [9.9356, 105.7851],
     "region": "Nam Bộ",
     "history": "Người Khơ-me ở nước ta là hậu duệ của các di dân từ Lục Chân Lạp. Họ di cư sang khu vực này theo nhiều đợt và do nhiều nguyên nhân khác nhau. Cùng với người Việt và người Hoa, người Khơ-me là một trong những nhóm cư dân có mặt sớm nhất ở đồng bằng sông Cửu Long.",
     "culture": {
@@ -185,28 +122,14 @@
       "worship": "Thờ Phật, tổ tiên và thực hành các nghi lễ nông nghiệp như cúng thần ruộng, gọi hồn lúa, thần mặt trăng.",
       "taboos": "Kiêng kỵ xúc phạm chùa chiền và tăng ni."
     },
-    "image": "/khmer/khmer1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/khmer/khmer1.png"
   },
   {
     "id": "muong",
     "name": "Mường",
     "population": 1452095,
-    "provinces": [
-      "Hòa Bình",
-      "Thanh Hóa",
-      "Phú Thọ",
-      "Sơn La",
-      "Ninh Bình"
-    ],
-    "coordinates": [
-      20.8171,
-      105.3378
-    ],
+    "provinces": ["Hòa Bình", "Thanh Hóa", "Phú Thọ", "Sơn La", "Ninh Bình"],
+    "coordinates": [20.8171, 105.3378],
     "region": "Tây Bắc",
     "history": "Cư dân bản địa lâu đời, có quan hệ gần với người Việt cổ.",
     "culture": {
@@ -224,28 +147,14 @@
       "worship": "Thờ tổ tiên, thần đất, thần lúa.",
       "taboos": "Kiêng xúc phạm thầy mo, kiêng làm đổ cơm trong lễ."
     },
-    "image": "/muong/muong1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/muong/muong1.png"
   },
   {
     "id": "nung",
     "name": "Nùng",
     "population": 1086298,
-    "provinces": [
-      "Lạng Sơn",
-      "Cao Bằng",
-      "Bắc Kạn",
-      "Thái Nguyên",
-      "Đắk Lắk"
-    ],
-    "coordinates": [
-      21.8537,
-      106.761
-    ],
+    "provinces": ["Lạng Sơn", "Cao Bằng", "Bắc Kạn", "Thái Nguyên", "Đắk Lắk"],
+    "coordinates": [21.8537, 106.7610],
     "region": "Đông Bắc",
     "history": "Có quan hệ gần với Tày; hiện diện lâu đời ở vùng Đông Bắc; nhiều cộng đồng gắn với lịch sử trao đổi buôn bán/định cư vùng biên.",
     "culture": {
@@ -263,29 +172,14 @@
       "worship": "Thờ cúng tổ tiên tại nhà; thờ thần bản/thần làng; thầy cúng/người làm lễ trong các nghi thức vòng đời.",
       "taboos": "Kiêng kỵ với bàn thờ/nơi thiêng; kiêng thời gian tang; tránh 'ngày xấu' khi cưới, làm nhà."
     },
-    "image": "/nung/nung1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/nung/nung1.png"
   },
   {
     "id": "hmong",
     "name": "H'Mông",
     "population": 1393547,
-    "provinces": [
-      "Hà Giang",
-      "Điện Biên",
-      "Sơn La",
-      "Lào Cai",
-      "Lai Châu",
-      "Yên Bái"
-    ],
-    "coordinates": [
-      23.1408,
-      104.9784
-    ],
+    "provinces": ["Hà Giang", "Điện Biên", "Sơn La", "Lào Cai", "Lai Châu", "Yên Bái"],
+    "coordinates": [23.1408, 104.9784],
     "region": "Tây Bắc",
     "history": "Di cư từ Trung Quốc vào Việt Nam từ thế kỷ XVIII–XIX.",
     "culture": {
@@ -303,28 +197,14 @@
       "worship": "Thờ tổ tiên, ma nhà, ma cửa.",
       "taboos": "Kiêng chạm vào bàn thờ, kiêng huýt sáo ban đêm."
     },
-    "image": "/hmong/hmong1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/hmong/hmong1.png"
   },
   {
     "id": "dao",
     "name": "Dao",
     "population": 891151,
-    "provinces": [
-      "Hà Giang",
-      "Tuyên Quang",
-      "Lào Cai",
-      "Yên Bái",
-      "Quảng Ninh"
-    ],
-    "coordinates": [
-      22.8025,
-      104.9784
-    ],
+    "provinces": ["Hà Giang", "Tuyên Quang", "Lào Cai", "Yên Bái", "Quảng Ninh"],
+    "coordinates": [22.8025, 104.9784],
     "region": "Tây Bắc",
     "history": "Có nguồn gốc từ Trung Quốc, di cư vào Việt Nam từ thế kỷ XIII.",
     "culture": {
@@ -342,26 +222,14 @@
       "worship": "Thờ Bàn Vương (thuỷ tổ).",
       "taboos": "Người chưa cấp sắc không được cúng lễ."
     },
-    "image": "/dao/dao1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/dao/dao1.png"
   },
   {
     "id": "gia-rai",
     "name": "Gia Rai",
     "population": 513930,
-    "provinces": [
-      "Gia Lai",
-      "Kon Tum",
-      "Đắk Lắk"
-    ],
-    "coordinates": [
-      13.976,
-      108.0013
-    ],
+    "provinces": ["Gia Lai", "Kon Tum", "Đắk Lắk"],
+    "coordinates": [13.9760, 108.0013],
     "region": "Tây Nguyên",
     "history": "Dân tộc Gia Rai là một trong những cư dân sớm sinh tụ ở vùng núi Tây Nguyên, lan sang một phần đất Campuchia.",
     "culture": {
@@ -379,26 +247,14 @@
       "worship": "Thần nhà (Yang sang), Thần làng (yang ala bôn), thần nước (yang ia), Thần vua (Yang pó tao).",
       "taboos": "Không huýt sáo trong nhà, không làm xê dịch đá kê bếp, không nói lời xui xẻo."
     },
-    "image": "/giarai/giarai1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/giarai/giarai1.png"
   },
   {
     "id": "ede",
     "name": "Ê-đê",
     "population": 398671,
-    "provinces": [
-      "Đắk Lắk",
-      "Phú Yên",
-      "Khánh Hòa"
-    ],
-    "coordinates": [
-      12.71,
-      108.2378
-    ],
+    "provinces": ["Đắk Lắk", "Phú Yên", "Khánh Hòa"],
+    "coordinates": [12.7100, 108.2378],
     "region": "Tây Nguyên",
     "history": "Có mặt lâu đời ở miền trung-Tây Nguyên.",
     "culture": {
@@ -416,26 +272,14 @@
       "worship": "Thờ cúng thần linh và tổ tiên",
       "taboos": "Kiêng kỵ liên quan đến tín ngưỡng mẫu hệ"
     },
-    "image": "/ede/ede1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/ede/ede1.png"
   },
   {
     "id": "ba-na",
     "name": "Ba-na",
     "population": 286708,
-    "provinces": [
-      "Gia Lai",
-      "Kon Tum",
-      "Bình Định"
-    ],
-    "coordinates": [
-      14.3497,
-      108.2653
-    ],
+    "provinces": ["Gia Lai", "Kon Tum", "Bình Định"],
+    "coordinates": [14.3497, 108.2653],
     "region": "Tây Nguyên",
     "history": "Tổ tiên người Ba na chủ yếu sinh sống tại vùng dưới núi Mang Yang, dọc theo hai bờ sông Ba. Lịch sử của người Ba na gắn liền với lịch sử các dân tộc Tây Nguyên.",
     "culture": {
@@ -453,29 +297,14 @@
       "worship": "Thờ cúng tổ tiên và các vị thần nông nghiệp",
       "taboos": "Cấm kị làm việc nặng vào những ngày cúng tế chung của làng, phạt nặng tội ngoại tình, loạn luân"
     },
-    "image": "/bana/bana1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/bana/bana1.png"
   },
   {
     "id": "san-chay",
     "name": "Sán Chay",
     "population": 201398,
-    "provinces": [
-      "Tuyên Quang",
-      "Thái Nguyên",
-      "Bắc Giang",
-      "Quảng Ninh",
-      "Cao Bằng",
-      "Lạng Sơn"
-    ],
-    "coordinates": [
-      21.8237,
-      105.228
-    ],
+    "provinces": ["Tuyên Quang", "Thái Nguyên", "Bắc Giang", "Quảng Ninh", "Cao Bằng", "Lạng Sơn"],
+    "coordinates": [21.8237, 105.2280],
     "region": "Đông Bắc",
     "history": "Có lịch sử di cư từ miền Nam Trung Quốc; định cư ở vùng trung du–miền núi; nổi bật với nông nghiệp và kho tàng văn nghệ dân gian phong phú.",
     "culture": {
@@ -493,29 +322,14 @@
       "worship": "Bàn thờ tổ tiên; thờ thần bảo hộ bản; thầy cúng trong chữa bệnh/cầu may.",
       "taboos": "Kiêng xâm phạm rừng thiêng/khu mộ; kiêng quanh sinh nở/tang ma."
     },
-    "image": "/sanchay/sanchay1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/sanchay/sanchay1.png"
   },
   {
     "id": "san-diu",
     "name": "Sán Dìu",
     "population": 183004,
-    "provinces": [
-      "Thái Nguyên",
-      "Vĩnh Phúc",
-      "Bắc Giang",
-      "Quảng Ninh",
-      "Tuyên Quang",
-      "Hải Dương"
-    ],
-    "coordinates": [
-      21.567,
-      106.0832
-    ],
+    "provinces": ["Thái Nguyên", "Vĩnh Phúc", "Bắc Giang", "Quảng Ninh", "Tuyên Quang", "Hải Dương"],
+    "coordinates": [21.5670, 106.0832],
     "region": "Đông Bắc",
     "history": "Di cư từ miền Nam Trung Quốc; cư trú ven rìa đồng bằng–trung du; giao lưu mạnh với người Kinh.",
     "culture": {
@@ -533,25 +347,14 @@
       "worship": "Thờ cúng tổ tiên tại nhà; thờ thần cộng đồng; ngày lễ theo lịch âm.",
       "taboos": "Kiêng bất kính bài vị/bàn thờ; kiêng ngày 'xấu' khi cưới/làm nhà."
     },
-    "image": "/sandiu/sandiu1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/sandiu/sandiu1.png"
   },
   {
     "id": "hre",
     "name": "Hrê",
     "population": 149460,
-    "provinces": [
-      "Quảng Ngãi",
-      "Bình Định"
-    ],
-    "coordinates": [
-      14.8869,
-      108.4549
-    ],
+    "provinces": ["Quảng Ngãi", "Bình Định"],
+    "coordinates": [14.8869, 108.4549],
     "region": "Duyên hải Nam Trung Bộ",
     "history": "Cư dân bản địa lâu đời ở miền núi Quảng Ngãi. Gắn với văn hóa lúa rẫy, ít biến động lịch sử lớn.",
     "culture": {
@@ -569,25 +372,14 @@
       "worship": "Thờ thần lúa, tổ tiên",
       "taboos": "Kiêng ngày xấu khi dựng nhà, cưới hỏi"
     },
-    "image": "/hre/hre1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/hre/hre1.png"
   },
   {
     "id": "ra-glai",
     "name": "Ra-Glai",
     "population": 146613,
-    "provinces": [
-      "Ninh Thuận",
-      "Khánh Hòa"
-    ],
-    "coordinates": [
-      11.6738,
-      108.8629
-    ],
+    "provinces": ["Ninh Thuận", "Khánh Hòa"],
+    "coordinates": [11.6738, 108.8629],
     "region": "Duyên hải Nam Trung Bộ",
     "history": "Có quan hệ gần với người Chăm cổ. Tách lên vùng núi sau khi Champa suy yếu.",
     "culture": {
@@ -605,27 +397,14 @@
       "worship": "Thờ thần núi, thần lúa",
       "taboos": "Kiêng xúc phạm mồ mả, rừng thiêng"
     },
-    "image": "/raglai/raglai1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/raglai/raglai1.png"
   },
   {
     "id": "mnong",
     "name": "Mnông",
     "population": 127334,
-    "provinces": [
-      "Đắk Lắk",
-      "Đắk Nông",
-      "Lâm Đồng",
-      "Bình Phước"
-    ],
-    "coordinates": [
-      12.3667,
-      107.8333
-    ],
+    "provinces": ["Đắk Lắk", "Đắk Nông", "Lâm Đồng", "Bình Phước"],
+    "coordinates": [12.3667, 107.8333],
     "region": "Tây Nguyên",
     "history": "Thuộc nhóm ngôn ngữ Môn–Khơ-me, đã sống lâu đời ở Tây Nguyên, Nam Việt Nam và Đông Campuchia.",
     "culture": {
@@ -643,26 +422,14 @@
       "worship": "Thờ thần núi, thần rừng, thần lúa.",
       "taboos": "Có kiêng cữ liên quan đến rừng, voi và sản xuất nông nghiệp."
     },
-    "image": "/mnong/mnong1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/mnong/mnong1.png"
   },
   {
     "id": "xo-dang",
     "name": "Xơ-đăng",
     "population": 212277,
-    "provinces": [
-      "Kon Tum",
-      "Quảng Nam",
-      "Quảng Ngãi"
-    ],
-    "coordinates": [
-      14.3497,
-      107.8333
-    ],
+    "provinces": ["Kon Tum", "Quảng Nam", "Quảng Ngãi"],
+    "coordinates": [14.3497, 107.8333],
     "region": "Tây Nguyên",
     "history": "Có một quá trình lịch sử rất lâu đời sinh sống tại vùng Bắc Tây Nguyên.",
     "culture": {
@@ -680,27 +447,14 @@
       "worship": "Thờ các vị thần: Thần Sấm sét, Thần Núi, Thần Nước, Thần Lúa.",
       "taboos": "Cấm kị kết hôn trong cùng dòng họ gần. Kiêng cử người lạ vào làng khi đang làm lễ cúng."
     },
-    "image": "/xodang/xodang1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/xodang/xodang1.png"
   },
   {
     "id": "cham",
     "name": "Chăm",
     "population": 178948,
-    "provinces": [
-      "Ninh Thuận",
-      "Bình Thuận",
-      "An Giang",
-      "TP.HCM"
-    ],
-    "coordinates": [
-      11.5746,
-      108.9873
-    ],
+    "provinces": ["Ninh Thuận", "Bình Thuận", "An Giang", "TP.HCM"],
+    "coordinates": [11.5746, 108.9873],
     "region": "Duyên hải Nam Trung Bộ",
     "history": "Hậu duệ vương quốc Champa (TK II–XV). Có nền văn minh phát triển rực rỡ, giao thương Ấn Độ – Đông Nam Á.",
     "culture": {
@@ -718,26 +472,14 @@
       "worship": "Thờ tổ tiên theo dòng mẹ, tháp Chăm",
       "taboos": "Kiêng ăn uống, sinh hoạt trái giáo luật"
     },
-    "image": "/cham/cham1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/cham/cham1.png"
   },
   {
     "id": "xtieng",
     "name": "Xtiêng",
     "population": 100752,
-    "provinces": [
-      "Bình Phước",
-      "Tây Ninh",
-      "Đồng Nai"
-    ],
-    "coordinates": [
-      11.7511,
-      106.7234
-    ],
+    "provinces": ["Bình Phước", "Tây Ninh", "Đồng Nai"],
+    "coordinates": [11.7511, 106.7234],
     "region": "Nam Bộ",
     "history": "Dân tộc sinh tụ lâu đời ở vùng Trường Sơn - Tây Nguyên và miền đông Nam bộ.",
     "culture": {
@@ -755,25 +497,14 @@
       "worship": "Thờ Yang Lieng (Yang Liêng) – thần tổ đất Xtiêng, thờ thần mùa màng.",
       "taboos": "Cấm kết hôn cận huyết. Kiêng kỵ trong các nghi lễ thần linh."
     },
-    "image": "/xtieng/xtieng1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/xtieng/xtieng1.png"
   },
   {
     "id": "co-tu",
     "name": "Cơ-tu",
     "population": 74173,
-    "provinces": [
-      "Quảng Nam",
-      "Thừa Thiên Huế"
-    ],
-    "coordinates": [
-      15.8801,
-      107.416
-    ],
+    "provinces": ["Quảng Nam", "Thừa Thiên Huế"],
+    "coordinates": [15.8801, 107.4160],
     "region": "Duyên hải Nam Trung Bộ",
     "history": "Cư dân lâu đời dãy Trường Sơn – Tây Nguyên Bắc. Lịch sử gắn với làng bản độc lập, chống ngoại xâm mạnh mẽ.",
     "culture": {
@@ -791,26 +522,14 @@
       "worship": "Thờ thần làng, tổ tiên",
       "taboos": "Kiêng vi phạm luật làng, xúc phạm nhà Gươl"
     },
-    "image": "/cotu/cotu1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/cotu/cotu1.png"
   },
   {
     "id": "co-ho",
     "name": "Cơ-ho",
     "population": 230191,
-    "provinces": [
-      "Lâm Đồng",
-      "Ninh Thuận",
-      "Đồng Nai"
-    ],
-    "coordinates": [
-      11.9404,
-      108.4583
-    ],
+    "provinces": ["Lâm Đồng", "Ninh Thuận", "Đồng Nai"],
+    "coordinates": [11.9404, 108.4583],
     "region": "Tây Nguyên",
     "history": "Thuộc chủng Inđônêdiên, là đồng chủ nhân của văn hóa Sa Huỳnh. Dân tộc Cơ-ho tồn tại cách ngày nay trên dưới 2.500 năm.",
     "culture": {
@@ -828,24 +547,14 @@
       "worship": "Thờ cúng các thần (Yang) cư ngụ tại núi cao, rừng già.",
       "taboos": "Cấm kị chặt cây cổ thụ đầu nguồn nước. Cấm kị việc xúc phạm phụ nữ và người già."
     },
-    "image": "/coho/coho1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/coho/coho1.png"
   },
   {
     "id": "gie-trieng",
     "name": "Giế-Triêng",
     "population": 63322,
-    "provinces": [
-      "Kon Tum"
-    ],
-    "coordinates": [
-      14.6459,
-      107.7863
-    ],
+    "provinces": ["Kon Tum"],
+    "coordinates": [14.6459, 107.7863],
     "region": "Tây Nguyên",
     "history": "Nhóm dân tộc địa phương Tây Nguyên thuộc hệ ngôn ngữ Môn–Khơ-me, xuất hiện lâu đời tại vùng núi phía Bắc Tây Nguyên.",
     "culture": {
@@ -863,25 +572,14 @@
       "worship": "Thờ thần núi, thần rừng, tổ tiên.",
       "taboos": "Kiêng kị liên quan tới thời tiết, nương rẫy."
     },
-    "image": "/gietrieng/gietrieng1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/gietrieng/gietrieng1.png"
   },
   {
     "id": "ma",
     "name": "Mạ",
     "population": 50322,
-    "provinces": [
-      "Lâm Đồng",
-      "Đồng Nai"
-    ],
-    "coordinates": [
-      11.5753,
-      108.1429
-    ],
+    "provinces": ["Lâm Đồng", "Đồng Nai"],
+    "coordinates": [11.5753, 108.1429],
     "region": "Tây Nguyên",
     "history": "Thuộc hệ Môn–Khơ-me, gần với người Koho; từng có xã hội phân tầng trước thế kỷ 19.",
     "culture": {
@@ -899,27 +597,14 @@
       "worship": "Thờ thần sông, suối, rừng và tổ tiên.",
       "taboos": "Kiêng kỵ với điều kiện thời tiết và sinh hoạt nương rẫy."
     },
-    "image": "/ma/ma1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/ma/ma1.png"
   },
   {
     "id": "kho-mu",
     "name": "Khơ Mú",
     "population": 90616,
-    "provinces": [
-      "Nghệ An",
-      "Điện Biên",
-      "Sơn La",
-      "Lai Châu"
-    ],
-    "coordinates": [
-      19.5449,
-      104.8326
-    ],
+    "provinces": ["Nghệ An", "Điện Biên", "Sơn La", "Lai Châu"],
+    "coordinates": [19.5449, 104.8326],
     "region": "Bắc Trung Bộ",
     "history": "Khơ Mú là cư dân bản địa lâu đời ở vùng núi Tây Bắc Việt Nam. Có truyền thống làm nương rẫy, sinh sống gắn bó chặt chẽ với rừng và thiên nhiên.",
     "culture": {
@@ -937,25 +622,14 @@
       "worship": "Thờ tổ tiên trong gia đình. Cúng các thần tự nhiên vào các dịp gieo trồng, thu hoạch.",
       "taboos": "Không chặt cây, săn bắn trong rừng thiêng. Không làm ồn hoặc xúc phạm trong lúc cúng lễ."
     },
-    "image": "/khomu/khomu1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/khomu/khomu1.png"
   },
   {
     "id": "cho-ro",
     "name": "Chơ-ro",
     "population": 29520,
-    "provinces": [
-      "Đồng Nai",
-      "Bà Rịa - Vũng Tàu"
-    ],
-    "coordinates": [
-      11.0686,
-      107.1676
-    ],
+    "provinces": ["Đồng Nai", "Bà Rịa - Vũng Tàu"],
+    "coordinates": [11.0686, 107.1676],
     "region": "Nam Bộ",
     "history": "Người Chơ Ro cư trú lâu đời ở vùng đồi núi thấp, nằm về phía đông nam của tỉnh Đồng Nai và một phần ở tỉnh Bà Rịa - Vũng Tàu.",
     "culture": {
@@ -973,25 +647,14 @@
       "worship": "Thần lúa gạo (Yang Pa), Thần rừng, đất đai, sông suối.",
       "taboos": "Không được xâm phạm khu vực thờ cúng. Kiêng kỵ trong những ngày lễ quan trọng."
     },
-    "image": "/choro/choro1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/choro/choro1.png"
   },
   {
     "id": "co",
     "name": "Co",
     "population": 35700,
-    "provinces": [
-      "Quảng Nam",
-      "Quảng Ngãi"
-    ],
-    "coordinates": [
-      15.5394,
-      108.0191
-    ],
+    "provinces": ["Quảng Nam", "Quảng Ngãi"],
+    "coordinates": [15.5394, 108.0191],
     "region": "Duyên hải Nam Trung Bộ",
     "history": "Đa số các nhà nghiên cứu đều cho rằng người Co là một trong những cư dân bản địa ở khu vực Trường Sơn - Tây Nguyên.",
     "culture": {
@@ -1009,25 +672,14 @@
       "worship": "Những đỉnh núi cao được gọi là núi Ông núi Bà. Hệ thống 'ma' và 'thần' rất đông.",
       "taboos": "Tránh cắm đũa giữa bát cơm, không soi gương ban đêm, kiêng kỵ trong tang lễ."
     },
-    "image": "/co/co1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/co/co1.png"
   },
   {
     "id": "ta-oi",
     "name": "Ta-Ôi",
     "population": 52356,
-    "provinces": [
-      "Thừa Thiên Huế",
-      "Quảng Trị"
-    ],
-    "coordinates": [
-      16.2163,
-      107.0364
-    ],
+    "provinces": ["Thừa Thiên Huế", "Quảng Trị"],
+    "coordinates": [16.2163, 107.0364],
     "region": "Bắc Trung Bộ",
     "history": "Xuất hiện lâu đời ở Trường Sơn. Gắn với kinh tế nương rẫy, từng chịu ảnh hưởng giao lưu Việt – Lào.",
     "culture": {
@@ -1045,25 +697,14 @@
       "worship": "Thờ thần núi, thần sông, tổ tiên",
       "taboos": "Kiêng xâm phạm rừng thiêng, kiêng ngày xấu"
     },
-    "image": "/taoi/taoi1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/taoi/taoi1.png"
   },
   {
     "id": "bru-van-kieu",
     "name": "Bru - Vân Kiều",
     "population": 94598,
-    "provinces": [
-      "Quảng Trị",
-      "Quảng Bình"
-    ],
-    "coordinates": [
-      16.817,
-      106.8597
-    ],
+    "provinces": ["Quảng Trị", "Quảng Bình"],
+    "coordinates": [16.8170, 106.8597],
     "region": "Bắc Trung Bộ",
     "history": "Người Bru – Vân Kiều là cư dân bản địa lâu đời ở dãy Trường Sơn. Truyền thống sinh sống bằng làm rẫy, săn bắt, hái lượm.",
     "culture": {
@@ -1081,25 +722,14 @@
       "worship": "Thờ tổ tiên và thần linh tự nhiên",
       "taboos": "Không chặt phá rừng thiêng. Không xúc phạm thần linh trong lễ cúng. Kiêng làm nhà, cưới hỏi khi có tang."
     },
-    "image": "/bruvankieu/bruvankieu1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/bruvankieu/bruvankieu1.png"
   },
   {
     "id": "tho",
     "name": "Thổ",
     "population": 91430,
-    "provinces": [
-      "Nghệ An",
-      "Thanh Hóa"
-    ],
-    "coordinates": [
-      19.2342,
-      104.92
-    ],
+    "provinces": ["Nghệ An", "Thanh Hóa"],
+    "coordinates": [19.2342, 104.9200],
     "region": "Bắc Trung Bộ",
     "history": "Dân tộc Thổ được hình thành từ quá trình giao thoa lâu dài giữa các nhóm cư dân Việt cổ, Tày – Thái và Mường. Là một trong những cộng đồng cư trú lâu đời ở Bắc Trung Bộ.",
     "culture": {
@@ -1117,27 +747,14 @@
       "worship": "Thờ tổ tiên, thần núi, thần sông, thần đất. Mỗi gia đình có bàn thờ tổ tiên.",
       "taboos": "Không xâm phạm nơi thờ tự, rừng thiêng. Kiêng làm việc lớn trong thời gian có tang."
     },
-    "image": "/tho/tho1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/tho/tho1.png"
   },
   {
     "id": "giay",
     "name": "Giáy",
     "population": 67858,
-    "provinces": [
-      "Lào Cai",
-      "Hà Giang",
-      "Lai Châu",
-      "Cao Bằng"
-    ],
-    "coordinates": [
-      22.4809,
-      103.9755
-    ],
+    "provinces": ["Lào Cai", "Hà Giang", "Lai Châu", "Cao Bằng"],
+    "coordinates": [22.4809, 103.9755],
     "region": "Tây Bắc",
     "history": "Có nguồn gốc Tày–Thái, cư trú ở Lào Cai, Hà Giang.",
     "culture": {
@@ -1155,25 +772,14 @@
       "worship": "Thờ tổ tiên, thần nông nghiệp.",
       "taboos": "Kiêng xâm phạm ruộng thiêng."
     },
-    "image": "/giay/giay1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/giay/giay1.png"
   },
   {
     "id": "chu-ru",
     "name": "Chu-ru",
     "population": 23242,
-    "provinces": [
-      "Lâm Đồng",
-      "Bình Thuận"
-    ],
-    "coordinates": [
-      11.5404,
-      108.4549
-    ],
+    "provinces": ["Lâm Đồng", "Bình Thuận"],
+    "coordinates": [11.5404, 108.4549],
     "region": "Tây Nguyên",
     "history": "Một tộc người thuộc nhóm Nam Đảo, có quan hệ lịch sử lâu dài với người Chăm.",
     "culture": {
@@ -1191,25 +797,14 @@
       "worship": "Thờ thần đất và trời (Yàng và Pô).",
       "taboos": "Kiêng cữ khi canh tác và trong lễ cúng thần."
     },
-    "image": "/churu/churu1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/churu/churu1.png"
   },
   {
     "id": "chut",
     "name": "Chứt",
     "population": 7513,
-    "provinces": [
-      "Quảng Bình",
-      "Hà Tĩnh"
-    ],
-    "coordinates": [
-      17.6102,
-      106.3487
-    ],
+    "provinces": ["Quảng Bình", "Hà Tĩnh"],
+    "coordinates": [17.6102, 106.3487],
     "region": "Bắc Trung Bộ",
     "history": "Một trong những cư dân cổ nhất Bắc Trung Bộ. Từng sống du canh, săn bắt hái lượm; được định cư muộn (TK XX).",
     "culture": {
@@ -1227,26 +822,14 @@
       "worship": "Thờ thần rừng, tổ tiên",
       "taboos": "Kiêng nói to trong rừng, kiêng xúc phạm thần linh"
     },
-    "image": "/chut/chut1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/chut/chut1.png"
   },
   {
     "id": "ha-nhi",
     "name": "Hà Nhì",
     "population": 25539,
-    "provinces": [
-      "Lai Châu",
-      "Lào Cai",
-      "Điện Biên"
-    ],
-    "coordinates": [
-      22.3864,
-      103.4619
-    ],
+    "provinces": ["Lai Châu", "Lào Cai", "Điện Biên"],
+    "coordinates": [22.3864, 103.4619],
     "region": "Tây Bắc",
     "history": "Di cư từ Trung Quốc, cư trú chủ yếu ở Lai Châu, Lào Cai.",
     "culture": {
@@ -1264,25 +847,14 @@
       "worship": "Thờ thần rừng, thần đất.",
       "taboos": "Cấm chặt cây rừng thiêng."
     },
-    "image": "/hanhi/hanhi1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/hanhi/hanhi1.png"
   },
   {
     "id": "xinh-mun",
     "name": "Xinh Mun",
     "population": 29503,
-    "provinces": [
-      "Sơn La",
-      "Điện Biên"
-    ],
-    "coordinates": [
-      21.1022,
-      103.7289
-    ],
+    "provinces": ["Sơn La", "Điện Biên"],
+    "coordinates": [21.1022, 103.7289],
     "region": "Tây Bắc",
     "history": "Cư trú lâu đời ở Sơn La, Điện Biên.",
     "culture": {
@@ -1300,26 +872,14 @@
       "worship": "Thờ tổ tiên, thần thiên nhiên.",
       "taboos": "Kiêng phá rừng, kiêng xúc phạm nơi cúng."
     },
-    "image": "/xinhmun/xinhmun1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/xinhmun/xinhmun1.png"
   },
   {
     "id": "lao",
     "name": "Lào",
     "population": 17532,
-    "provinces": [
-      "Lai Châu",
-      "Điện Biên",
-      "Sơn La"
-    ],
-    "coordinates": [
-      22.338,
-      103.161
-    ],
+    "provinces": ["Lai Châu", "Điện Biên", "Sơn La"],
+    "coordinates": [22.3380, 103.1610],
     "region": "Tây Bắc",
     "history": "Có quan hệ gần với người Thái, di cư vào Việt Nam từ Lào, cư trú chủ yếu ở Tây Bắc.",
     "culture": {
@@ -1337,25 +897,14 @@
       "worship": "Thờ tổ tiên, thần bản.",
       "taboos": "Kiêng xúc phạm chùa, sư sãi."
     },
-    "image": "/lao/lao1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/lao/lao1.png"
   },
   {
     "id": "la-chi",
     "name": "La Chí",
     "population": 15126,
-    "provinces": [
-      "Hà Giang",
-      "Lào Cai"
-    ],
-    "coordinates": [
-      23.3432,
-      105.2551
-    ],
+    "provinces": ["Hà Giang", "Lào Cai"],
+    "coordinates": [23.3432, 105.2551],
     "region": "Đông Bắc",
     "history": "Lịch sử cư trú bản địa/vùng cao ở các tỉnh cực Bắc; dân số ít; truyền thống cộng đồng gắn với canh tác nương rẫy.",
     "culture": {
@@ -1373,27 +922,14 @@
       "worship": "Thờ tổ tiên; thờ thần bản/thần đất; lễ bảo hộ gia đình.",
       "taboos": "Kiêng nghiêm ngặt quanh rừng thiêng, nguồn nước và không gian nghi lễ."
     },
-    "image": "/lachi/lachi1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/lachi/lachi1.png"
   },
   {
     "id": "phu-la",
     "name": "Phù Lá",
     "population": 12471,
-    "provinces": [
-      "Lào Cai",
-      "Yên Bái",
-      "Hà Giang",
-      "Điện Biên"
-    ],
-    "coordinates": [
-      22.338,
-      104.161
-    ],
+    "provinces": ["Lào Cai", "Yên Bái", "Hà Giang", "Điện Biên"],
+    "coordinates": [22.3380, 104.1610],
     "region": "Tây Bắc",
     "history": "Có nguồn gốc từ Trung Quốc, di cư vào Việt Nam khoảng vài trăm năm trước.",
     "culture": {
@@ -1411,25 +947,14 @@
       "worship": "Thờ tổ tiên, thần thiên nhiên.",
       "taboos": "Kiêng làm ồn khi cúng."
     },
-    "image": "/phula/phula1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/phula/phula1.png"
   },
   {
     "id": "la-hu",
     "name": "La Hủ",
     "population": 12113,
-    "provinces": [
-      "Lai Châu",
-      "Lào Cai"
-    ],
-    "coordinates": [
-      22.3864,
-      103.1619
-    ],
+    "provinces": ["Lai Châu", "Lào Cai"],
+    "coordinates": [22.3864, 103.1619],
     "region": "Tây Bắc",
     "history": "Di cư từ Trung Quốc, cư trú ở Lai Châu, Lào Cai.",
     "culture": {
@@ -1447,24 +972,14 @@
       "worship": "Thờ tổ tiên, ma rừng.",
       "taboos": "Kiêng săn bắn ở rừng thiêng."
     },
-    "image": "/lahu/lahu1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/lahu/lahu1.png"
   },
   {
     "id": "la-ha",
     "name": "La Ha",
     "population": 10000,
-    "provinces": [
-      "Sơn La"
-    ],
-    "coordinates": [
-      21.1022,
-      103.9289
-    ],
+    "provinces": ["Sơn La"],
+    "coordinates": [21.1022, 103.9289],
     "region": "Tây Bắc",
     "history": "Cư dân bản địa lâu đời ở vùng Tây Bắc, sinh sống gắn bó với núi rừng và sông Đà.",
     "culture": {
@@ -1482,25 +997,14 @@
       "worship": "Thờ tổ tiên và các thần linh tự nhiên",
       "taboos": "Không chặt phá rừng thiêng. Không làm ô uế nguồn nước."
     },
-    "image": "/laha/laha1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/laha/laha1.png"
   },
   {
     "id": "pa-then",
     "name": "Pà Thẻn",
     "population": 8248,
-    "provinces": [
-      "Hà Giang",
-      "Tuyên Quang"
-    ],
-    "coordinates": [
-      23.1408,
-      105.2784
-    ],
+    "provinces": ["Hà Giang", "Tuyên Quang"],
+    "coordinates": [23.1408, 105.2784],
     "region": "Đông Bắc",
     "history": "Nhóm dân số rất ít ở khu vực Hà Giang/Tuyên Quang; nổi tiếng với truyền thống nghi lễ đặc sắc.",
     "culture": {
@@ -1518,24 +1022,14 @@
       "worship": "Thờ thần gia đình/bản; lễ bảo hộ; nghi lễ chữa bệnh, gọi vía/cầu thần linh.",
       "taboos": "Kiêng kỵ nghi lễ cao: một số người/thời điểm không được lại gần khu vực làm lễ."
     },
-    "image": "/pathen/pathen1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/pathen/pathen1.png"
   },
   {
     "id": "lu",
     "name": "Lự",
     "population": 6757,
-    "provinces": [
-      "Lai Châu"
-    ],
-    "coordinates": [
-      22.3864,
-      103.0619
-    ],
+    "provinces": ["Lai Châu"],
+    "coordinates": [22.3864, 103.0619],
     "region": "Tây Bắc",
     "history": "Có nguồn gốc từ Thái cổ, cư trú lâu đời ở Tây Bắc.",
     "culture": {
@@ -1553,26 +1047,14 @@
       "worship": "Thờ tổ tiên, thần bản.",
       "taboos": "Kiêng làm ô uế nơi thờ tự."
     },
-    "image": "/lu/lu1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/lu/lu1.png"
   },
   {
     "id": "lo-lo",
     "name": "Lô Lô",
     "population": 4827,
-    "provinces": [
-      "Cao Bằng",
-      "Hà Giang",
-      "Lai Châu"
-    ],
-    "coordinates": [
-      23.0142,
-      105.8419
-    ],
+    "provinces": ["Cao Bằng", "Hà Giang", "Lai Châu"],
+    "coordinates": [23.0142, 105.8419],
     "region": "Tây Bắc",
     "history": "Di cư từ Trung Quốc, cư trú ở Hà Giang, Cao Bằng.",
     "culture": {
@@ -1590,24 +1072,14 @@
       "worship": "Thờ trống đồng, tổ tiên.",
       "taboos": "Kiêng chạm vào trống thiêng."
     },
-    "image": "/lolo/lolo1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/lolo/lolo1.png"
   },
   {
     "id": "mang",
     "name": "Mảng",
     "population": 4650,
-    "provinces": [
-      "Lai Châu"
-    ],
-    "coordinates": [
-      22.3864,
-      103.2619
-    ],
+    "provinces": ["Lai Châu"],
+    "coordinates": [22.3864, 103.2619],
     "region": "Tây Bắc",
     "history": "Cư dân bản địa rất ít người, sống chủ yếu ở Lai Châu.",
     "culture": {
@@ -1625,25 +1097,14 @@
       "worship": "Thờ tổ tiên, thần rừng.",
       "taboos": "Kiêng chặt phá rừng thiêng."
     },
-    "image": "/mang/mang1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/mang/mang1.png"
   },
   {
     "id": "co-lao",
     "name": "Cờ Lao",
     "population": 4003,
-    "provinces": [
-      "Hà Giang",
-      "Tuyên Quang"
-    ],
-    "coordinates": [
-      23.1408,
-      105.1784
-    ],
+    "provinces": ["Hà Giang", "Tuyên Quang"],
+    "coordinates": [23.1408, 105.1784],
     "region": "Đông Bắc",
     "history": "Dân số rất ít ở vùng núi biên giới phía Bắc (đặc biệt Hà Giang); cư trú lâu đời, gồm nhiều tiểu nhóm địa phương.",
     "culture": {
@@ -1661,25 +1122,14 @@
       "worship": "Thờ tổ tiên; thờ thần đất/thần bản; lễ cầu mùa, cầu bình an.",
       "taboos": "Kiêng quanh rừng thiêng/nơi 'cấm'; kiêng thời gian tang."
     },
-    "image": "/colao/colao1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/colao/colao1.png"
   },
   {
     "id": "bo-y",
     "name": "Bố Y",
     "population": 3232,
-    "provinces": [
-      "Lào Cai",
-      "Hà Giang"
-    ],
-    "coordinates": [
-      22.4809,
-      104.1755
-    ],
+    "provinces": ["Lào Cai", "Hà Giang"],
+    "coordinates": [22.4809, 104.1755],
     "region": "Tây Bắc",
     "history": "Có nguồn gốc từ miền Nam Trung Quốc, di cư xuống Việt Nam cách đây vài trăm năm. Họ sinh sống lâu đời xen kẽ với người Mông, Tày, Nùng nhưng vẫn giữ được bản sắc văn hóa riêng.",
     "culture": {
@@ -1697,25 +1147,14 @@
       "worship": "Thờ Tổ tiên, Thần núi, thần rừng, thần đất",
       "taboos": "Không được làm ồn, chặt cây ở rừng thiêng. Phụ nữ mang thai kiêng tham gia một số nghi lễ."
     },
-    "image": "/boy/boy1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/boy/boy1.png"
   },
   {
     "id": "cong",
     "name": "Cống",
     "population": 2729,
-    "provinces": [
-      "Lai Châu",
-      "Điện Biên"
-    ],
-    "coordinates": [
-      22.3864,
-      103.3619
-    ],
+    "provinces": ["Lai Châu", "Điện Biên"],
+    "coordinates": [22.3864, 103.3619],
     "region": "Tây Bắc",
     "history": "Nguồn gốc di cư từ vùng Lào – Trung Quốc sang Việt Nam cách đây vài trăm năm. Sống xen cư với người Thái, Hà Nhì, Mông nhưng vẫn giữ bản sắc riêng.",
     "culture": {
@@ -1733,29 +1172,14 @@
       "worship": "Thờ tổ tiên trong gia đình. Thờ thần tự nhiên ngoài cộng đồng.",
       "taboos": "Không chặt phá cây trong rừng thiêng. Phụ nữ mang thai kiêng tham gia một số nghi lễ."
     },
-    "image": "/cong/cong1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/cong/cong1.png"
   },
   {
     "id": "ngai",
     "name": "Ngái",
     "population": 1649,
-    "provinces": [
-      "Bắc Giang",
-      "Cao Bằng",
-      "Lạng Sơn",
-      "Quảng Ninh",
-      "Bình Thuận",
-      "Đồng Nai"
-    ],
-    "coordinates": [
-      21.8237,
-      106.228
-    ],
+    "provinces": ["Bắc Giang", "Cao Bằng", "Lạng Sơn", "Quảng Ninh", "Bình Thuận", "Đồng Nai"],
+    "coordinates": [21.8237, 106.2280],
     "region": "Đồng bằng",
     "history": "Người Ngái có nhiều gốc khác nhau và thiên di tới Việt Nam làm nhiều đợt. Quá trình này diễn ra suốt thời kỳ Trung và Cận đại.",
     "culture": {
@@ -1773,24 +1197,14 @@
       "worship": "Lễ Kỳ Yên mang nét văn hóa tín ngưỡng tâm linh đặc sắc.",
       "taboos": "Kiêng làm việc lớn trong ngày xấu theo lịch âm. Tránh kết hôn cùng dòng họ."
     },
-    "image": "/ngai/ngai1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/ngai/ngai1.png"
   },
   {
     "id": "pu-peo",
     "name": "Pu Péo",
     "population": 903,
-    "provinces": [
-      "Hà Giang"
-    ],
-    "coordinates": [
-      23.2432,
-      105.3551
-    ],
+    "provinces": ["Hà Giang"],
+    "coordinates": [23.2432, 105.3551],
     "region": "Đông Bắc",
     "history": "Một trong những tộc người ít dân nhất Việt Nam; tập trung ở cực Bắc Hà Giang; gìn giữ mạnh phong tục dòng họ/bản.",
     "culture": {
@@ -1808,25 +1222,14 @@
       "worship": "Thờ tổ tiên; thờ thần bảo hộ bản; lễ cầu mùa/cầu sức khỏe.",
       "taboos": "Kiêng tôn trọng đồ thờ/đồ lễ; kiêng xâm phạm không gian thiêng; kiêng trong tang lễ và các đại lễ."
     },
-    "image": "/pupeo/pupeo1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/pupeo/pupeo1.png"
   },
   {
     "id": "si-la",
     "name": "Si La",
     "population": 909,
-    "provinces": [
-      "Lai Châu",
-      "Điện Biên"
-    ],
-    "coordinates": [
-      22.3864,
-      103.4619
-    ],
+    "provinces": ["Lai Châu", "Điện Biên"],
+    "coordinates": [22.3864, 103.4619],
     "region": "Tây Bắc",
     "history": "Người Si La có nguồn gốc từ vùng núi phía nam Trung Quốc, di cư xuống Việt Nam từ nhiều thế kỷ trước và định cư lâu dài ở vùng núi cao, hẻo lánh.",
     "culture": {
@@ -1844,24 +1247,14 @@
       "worship": "Thờ tổ tiên trong gia đình. Cúng thần rừng, thần đất, thần nước.",
       "taboos": "Không xâm phạm rừng thiêng, nguồn nước. Kiêng gọi tên người đã mất. Phụ nữ mang thai kiêng tham gia một số nghi lễ."
     },
-    "image": "/sila/sila1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/sila/sila1.png"
   },
   {
     "id": "brau",
     "name": "Brâu",
     "population": 525,
-    "provinces": [
-      "Kon Tum"
-    ],
-    "coordinates": [
-      14.6459,
-      107.6863
-    ],
+    "provinces": ["Kon Tum"],
+    "coordinates": [14.6459, 107.6863],
     "region": "Tây Nguyên",
     "history": "Dân tộc rất nhỏ tại Việt Nam, có nguồn gốc từ nhóm Ngôn ngữ Môn–Khơ-me, gắn với người Brau ở Lào và Campuchia.",
     "culture": {
@@ -1879,24 +1272,14 @@
       "worship": "Thờ thần thiên nhiên và tổ tiên.",
       "taboos": "Kiêng cữ liên quan thiên nhiên và săn bắt."
     },
-    "image": "/brau/brau1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/brau/brau1.png"
   },
   {
     "id": "romam",
     "name": "Rơ-măm",
     "population": 639,
-    "provinces": [
-      "Kon Tum"
-    ],
-    "coordinates": [
-      14.3497,
-      107.9833
-    ],
+    "provinces": ["Kon Tum"],
+    "coordinates": [14.3497, 107.9833],
     "region": "Tây Nguyên",
     "history": "Một trong những dân tộc nhỏ nhất ở Việt Nam, thuộc nhóm Môn–Khơ-me, sống lâu ở vùng núi Tây Nguyên.",
     "culture": {
@@ -1914,26 +1297,14 @@
       "worship": "Thờ Yang (thần lúa) và các thần linh.",
       "taboos": "Kiêng các thời điểm không thuận cho sản xuất nương rẫy."
     },
-    "image": "/romam/romam1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/romam/romam1.png"
   },
   {
     "id": "khang",
     "name": "Kháng",
     "population": 16180,
-    "provinces": [
-      "Lai Châu",
-      "Sơn La",
-      "Điện Biên"
-    ],
-    "coordinates": [
-      22.3864,
-      103.5619
-    ],
+    "provinces": ["Lai Châu", "Sơn La", "Điện Biên"],
+    "coordinates": [22.3864, 103.5619],
     "region": "Tây Bắc",
     "history": "Cư dân bản địa lâu đời ở Tây Bắc.",
     "culture": {
@@ -1951,24 +1322,14 @@
       "worship": "Thờ tổ tiên, thần lúa.",
       "taboos": "Kiêng xâm phạm ruộng thiêng."
     },
-    "image": "/khang/khang1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/khang/khang1.png"
   },
   {
     "id": "o-du",
     "name": "Ơ-Đu",
     "population": 428,
-    "provinces": [
-      "Nghệ An"
-    ],
-    "coordinates": [
-      19.5449,
-      105.0826
-    ],
+    "provinces": ["Nghệ An"],
+    "coordinates": [19.5449, 105.0826],
     "region": "Bắc Trung Bộ",
     "history": "Cư dân bản địa rất ít người ở thượng nguồn sông Cả. Bị đồng hóa mạnh với Thái và Việt, ngôn ngữ gần mai một.",
     "culture": {
@@ -1986,11 +1347,6 @@
       "worship": "Thờ tổ tiên, thần tự nhiên",
       "taboos": "Kiêng phá rừng đầu nguồn"
     },
-    "image": "/odu/odu1.png",
-    "hoChiMinhQuote": {
-      "quote": "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
-      "source": "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
-      "page": "Giáo trình TTHCM, Chương 4, tr. 125"
-    }
+    "image": "/odu/odu1.png"
   }
 ]

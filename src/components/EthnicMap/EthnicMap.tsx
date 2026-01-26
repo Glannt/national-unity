@@ -530,17 +530,35 @@ export default function EthnicMap() {
 
     // Force invalidateSize after a short delay to ensure tiles load properly
     setTimeout(() => {
-      map.invalidateSize();
+      if (map && map.getContainer()) {
+        try {
+          map.invalidateSize();
+        } catch (error) {
+          console.warn('Error invalidating map size:', error);
+        }
+      }
     }, 100);
 
     // Additional invalidateSize after tiles might have loaded
     setTimeout(() => {
-      map.invalidateSize();
+      if (map && map.getContainer()) {
+        try {
+          map.invalidateSize();
+        } catch (error) {
+          console.warn('Error invalidating map size:', error);
+        }
+      }
     }, 500);
 
     // Use ResizeObserver to handle container resize
     const resizeObserver = new ResizeObserver(() => {
-      map.invalidateSize();
+      if (map && map.getContainer()) {
+        try {
+          map.invalidateSize();
+        } catch (error) {
+          console.warn('Error invalidating map size:', error);
+        }
+      }
     });
 
     if (mapContainerRef.current) {

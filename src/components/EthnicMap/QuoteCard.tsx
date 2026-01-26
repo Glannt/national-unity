@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@heroui/button";
 
 interface QuoteCardProps {
-  quote: {
+  quote?: {
     quote: string;
     source: string;
     page: string;
@@ -12,6 +12,13 @@ interface QuoteCardProps {
 
 export default function QuoteCard({ quote }: QuoteCardProps) {
   const [showVerification, setShowVerification] = useState(false);
+
+  // Default quote if none provided
+  const displayQuote = quote || {
+    quote: "Đồng bào Kinh hay Thổ, Mường hay Mán, Gia-rai hay Ê-đê, Xê-đăng hay Ba-na và các dân tộc thiểu số khác, đều là con cháu Việt Nam, đều là anh em ruột thịt.",
+    source: "Thư gửi Đại hội các dân tộc thiểu số miền Nam, 1946",
+    page: "Giáo trình TTHCM, Chương 4, tr. 125"
+  };
 
   return (
     <motion.div
@@ -30,13 +37,13 @@ export default function QuoteCard({ quote }: QuoteCardProps) {
       {/* Quote */}
       <blockquote className="flex-1 relative pl-4 border-l-4 border-amber-500/50">
         <p className="italic text-default-700 dark:text-default-300 text-sm leading-relaxed">
-          "{quote.quote}"
+          "{displayQuote.quote}"
         </p>
       </blockquote>
 
       {/* Source */}
       <p className="text-xs text-default-500 mt-4">
-        — {quote.source}
+        — {displayQuote.source}
       </p>
 
       {/* Verification Button */}
@@ -63,7 +70,7 @@ export default function QuoteCard({ quote }: QuoteCardProps) {
               Nguồn tài liệu
             </h4>
             <p className="text-xs text-amber-700 dark:text-amber-300">
-              📖 {quote.page}
+              📖 {displayQuote.page}
             </p>
             <p className="text-xs text-amber-600 dark:text-amber-400 mt-1">
               ✓ Đã đối chiếu với giáo trình gốc
