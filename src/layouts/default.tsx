@@ -9,7 +9,7 @@ export default function DefaultLayout({
   children: React.ReactNode;
 }) {
   return (
-    <div 
+    <div
       className="relative flex flex-col min-h-screen"
       style={{
         backgroundImage: "url('/background/back_ground.png')",
@@ -21,7 +21,7 @@ export default function DefaultLayout({
     >
       {/* Overlay để nội dung dễ đọc hơn */}
       <div className="absolute inset-0 bg-black/40 z-0" />
-      
+
       {/* Content layer */}
       <div className="relative z-10 flex flex-col min-h-screen">
         <Navbar />
@@ -45,7 +45,7 @@ export default function DefaultLayout({
             title="heroui.com homepage"
           >
             <span>Powered by</span>
-            <span className="text-primary">HeroUI</span>
+            <span className="text-primary">Team PBL_HCM202</span>
           </Link>
         </footer>
 
