@@ -74,7 +74,7 @@ export default function EthnicMap() {
   // Get ethnic groups for selected province
   const getEthnicsForProvince = useCallback(
     (province: string): EthnicGroup[] => {
-      return (ethnicGroups as EthnicGroup[]).filter((ethnic) =>
+      return (ethnicGroups as unknown as EthnicGroup[]).filter((ethnic) =>
         ethnic.provinces.some(
           (p) =>
             p.toLowerCase().includes(province.toLowerCase()) ||
@@ -329,7 +329,7 @@ export default function EthnicMap() {
     });
 
     // Add markers for each ethnic group
-    (ethnicGroups as EthnicGroup[]).forEach((ethnic) => {
+    (ethnicGroups as unknown as EthnicGroup[]).forEach((ethnic) => {
       const marker = L.marker(ethnic.coordinates as L.LatLngExpression, {
         icon: defaultIcon,
         riseOnHover: true,
@@ -534,7 +534,7 @@ export default function EthnicMap() {
         try {
           map.invalidateSize();
         } catch (error) {
-          console.warn('Error invalidating map size:', error);
+          console.warn("Error invalidating map size:", error);
         }
       }
     }, 100);
@@ -545,7 +545,7 @@ export default function EthnicMap() {
         try {
           map.invalidateSize();
         } catch (error) {
-          console.warn('Error invalidating map size:', error);
+          console.warn("Error invalidating map size:", error);
         }
       }
     }, 500);
@@ -556,7 +556,7 @@ export default function EthnicMap() {
         try {
           map.invalidateSize();
         } catch (error) {
-          console.warn('Error invalidating map size:', error);
+          console.warn("Error invalidating map size:", error);
         }
       }
     });
