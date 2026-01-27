@@ -14,7 +14,7 @@ interface Message {
 
 // Gemini API configuration using SDK
 const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
-const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
+const ai = GEMINI_API_KEY ? new GoogleGenAI({ apiKey: GEMINI_API_KEY }) : null;
 
 const SYSTEM_PROMPT = `Bạn là một trợ lý AI chuyên về Tư tưởng Hồ Chí Minh về Đoàn kết Dân tộc. 
 Nhiệm vụ của bạn là:
@@ -40,6 +40,11 @@ async function callGeminiAPI(
   chatHistory: ChatHistoryItem[],
 ): Promise<string> {
   try {
+    // Check if API key is configured
+    if (!ai || !GEMINI_API_KEY) {
+      return "⚠️ API Key chưa được cấu hình. Vui lòng thêm VITE_GEMINI_API_KEY vào file .env";
+    }
+
     // Build conversation context
     const conversationContext = chatHistory
       .map(
